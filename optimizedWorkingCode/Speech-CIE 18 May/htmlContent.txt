@@ -1,0 +1,592 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Topic:Computer programming - Wikiversity</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.17wmf1" />
+<link rel="canonical" href="/wiki/Topic:Computer_programming" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Topic:Computer_programming&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Topic:Computer_programming&amp;action=edit" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikiversity (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://en.wikiversity.org/w/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikiversity Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/en.wikiversity.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki%21legacy%21commonPrint%7Cmediawiki%21legacy%21shared%7Cskins%21vector&amp;only=styles&amp;skin=vector" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" /><link rel="stylesheet" href="http://bits.wikimedia.org/en.wikiversity.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" type="text/css" media="all" />
+<style type="text/css" media="all">a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: enwikiversity:resourceloader:filter:minify-css:5:f2a9127573a22335c2a9102b208c73e7 */</style>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.17/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr ns-104 ns-subject page-Topic_Computer_programming skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --><script type="text/javascript">
+/* <![CDATA[ */
+document.writeln("\x3cdiv id=\"localNotice\"\x3e\x3cp\x3e\x3ccenter\x3e\x3cbig\x3e\x3ca href=\"/wiki/Wikiversity:Why_create_an_account%3F\" title=\"Wikiversity:Why create an account?\" class=\"mw-redirect\"\x3eWhy create a Wikiversity account?\x3c/a\x3e\x3c/big\x3e\x3c/center\x3e\x3c/p\x3e\n\x3c/div\x3e");
+/* ]]> */
+</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Topic:Computer programming</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+				<div id="siteSub">From Wikiversity</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub">(Redirected from <a href="/w/index.php?title=Programming&amp;redirect=no" title="Programming">Programming</a>)</div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div class="center">
+<div class="floatnone"><a href="/wiki/File:CP_logo.png" class="image"><img alt="CP logo.png" src="http://upload.wikimedia.org/wikiversity/en/thumb/8/88/CP_logo.png/200px-CP_logo.png" width="200" height="89" /></a></div>
+</div>
+<center><i>Part of the <a href="/wiki/School:Computer_Science" title="School:Computer Science" class="mw-redirect">School of Computer Science</a></i></center>
+<p>Computer Programming is a field that involves the methodology behind the programming, software abstraction, algorithms, data structures, design, testing, and maintenance of computer software.</p>
+<table cellspacing="0" cellpadding="0" style="clear:right; margin-bottom: .5em; float: right; padding: .5em 0 .8em 1.4em; background: none; width: auto;">
+<tr>
+<td>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Division_news"><span class="tocnumber">1</span> <span class="toctext">Division news</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Recommended_course_of_study"><span class="tocnumber">2</span> <span class="toctext">Recommended course of study</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#General_topics"><span class="tocnumber">3</span> <span class="toctext">General topics</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Applied_topics"><span class="tocnumber">4</span> <span class="toctext">Applied topics</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Computer_Programming_Languages"><span class="tocnumber">5</span> <span class="toctext">Computer Programming Languages</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Available"><span class="tocnumber">5.1</span> <span class="toctext">Available</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Planned"><span class="tocnumber">5.2</span> <span class="toctext">Planned</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Specialized_programming_environments"><span class="tocnumber">5.3</span> <span class="toctext">Specialized programming environments</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Learning_materials_and_learning_projects"><span class="tocnumber">6</span> <span class="toctext">Learning materials and learning projects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Textbooks"><span class="tocnumber">6.1</span> <span class="toctext">Textbooks</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Exercise_collections"><span class="tocnumber">6.2</span> <span class="toctext">Exercise collections</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Literature_on_programming_exercises"><span class="tocnumber">6.2.1</span> <span class="toctext">Literature on programming exercises</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Learning_projects"><span class="tocnumber">6.3</span> <span class="toctext">Learning projects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Active_participants"><span class="tocnumber">7</span> <span class="toctext">Active participants</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Resources"><span class="tocnumber">8</span> <span class="toctext">Resources</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=1" title="Edit section: Division news">edit</a>]</span> <span class="mw-headline" id="Division_news">Division news</span></h2>
+<ul>
+<li><b>May 14, 2007</b> - New programming language added (<a href="/wiki/Topic:D" title="Topic:D">D</a>) and lesson numbers for programming languages updated.</li>
+<li><b>September 16, 2006</b> - Department upgraded to division</li>
+<li><b>August 20, 2006</b> - Department founded!......</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=2" title="Edit section: Recommended course of study">edit</a>]</span> <span class="mw-headline" id="Recommended_course_of_study">Recommended course of study</span></h2>
+<ul>
+<li><a href="/wiki/Topic:Computing_Fundamentals" title="Topic:Computing Fundamentals" class="mw-redirect">Computing Fundamentals</a></li>
+<li><a href="/wiki/Introduction_to_Computer_Science" title="Introduction to Computer Science">Introduction to Computer Science</a></li>
+<li><a href="/wiki/Creating_a_Development_Environment" title="Creating a Development Environment">Creating a Development Environment</a></li>
+<li><a href="/wiki/Introduction_to_Programming" title="Introduction to Programming">Introduction to Programming</a></li>
+<li><a href="/wiki/Topic:Introduction_to_Programming_Logic" title="Topic:Introduction to Programming Logic" class="mw-redirect">Introduction to Programming Logic</a></li>
+<li><a href="/wiki/Hungarian_Notation" title="Hungarian Notation" class="mw-redirect">Hungarian Notation</a></li>
+<li><a href="/w/index.php?title=Topic:Basic_Programming_Languages&amp;action=edit&amp;redlink=1" class="new" title="Topic:Basic Programming Languages (page does not exist)">Procedure Oriented Programming</a></li>
+<li>At least <b>one</b> topic in Procedure Oriented languages
+<ul>
+<li>Choose From: <a href="/wiki/BASIC" title="BASIC">BASIC</a>,<a href="/wiki/C" title="C" class="mw-redirect">C</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Topic:Object-Oriented_Programming" title="Topic:Object-Oriented Programming" class="mw-redirect">Object-Oriented Programming</a></li>
+<li>At least <b>Two</b> object-oriented languages.
+<ul>
+<li>Choose from: <a href="/wiki/Topic:C%2B%2B" title="Topic:C++" class="mw-redirect">C++</a>, <a href="/wiki/Topic:Java" title="Topic:Java">Java</a>, <a href="/wiki/Topic:C_Sharp" title="Topic:C Sharp">C#</a>, <a href="/wiki/Topic:D" title="Topic:D">D</a></li>
+</ul>
+</li>
+<li>At least <b>one</b> topic in web-based languages.
+<ul>
+<li>Choose from: <a href="/wiki/Topic:HTML" title="Topic:HTML" class="mw-redirect">HTML</a>, <a href="/wiki/Topic:PHP" title="Topic:PHP">PHP</a></li>
+</ul>
+</li>
+<li>At least <b>one</b> topic in Relational Database Management Systems (RDBMS).
+<ul>
+<li>Choose from: <a href="/w/index.php?title=Topic:Oracle&amp;action=edit&amp;redlink=1" class="new" title="Topic:Oracle (page does not exist)">Oracle</a>, <a href="/wiki/Topic:MySQL" title="Topic:MySQL">MySQL</a>, <a href="/wiki/Topic:MS_SQL_Server" title="Topic:MS SQL Server" class="mw-redirect">MS SQL Server</a>, <a href="/wiki/Topic:PostgreSQL" title="Topic:PostgreSQL">PostgreSQL</a>, <a href="/w/index.php?title=Topic:Sybase&amp;action=edit&amp;redlink=1" class="new" title="Topic:Sybase (page does not exist)">Sybase</a></li>
+</ul>
+</li>
+<li>At least <b>one</b> other topic in computer programming languages.
+<ul>
+<li>Recommended: <a href="/wiki/Topic:Lisp" title="Topic:Lisp">Lisp</a>, <a href="/wiki/Topic:Perl" title="Topic:Perl">Perl</a>, <a href="/wiki/Topic:Python" title="Topic:Python">Python</a>, <a href="/wiki/Topic:Ruby" title="Topic:Ruby">Ruby</a>, <a href="/wiki/Topic:Visual_Basic" title="Topic:Visual Basic" class="mw-redirect">Visual Basic</a>, <a href="/wiki/Topic:REALbasic" title="Topic:REALbasic">REALbasic</a>, <a href="/wiki/Topic:Turing_Programming_Language" title="Topic:Turing Programming Language">Turing</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Topic:Algorithms_and_Data_Structures" title="Topic:Algorithms and Data Structures">Algorithms and Data Structures</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=3" title="Edit section: General topics">edit</a>]</span> <span class="mw-headline" id="General_topics">General topics</span></h2>
+<ul>
+<li><a href="/wiki/Topic:Introduction_to_Programming" title="Topic:Introduction to Programming">Introduction to Programming</a> -- 3 Lessons</li>
+<li><a href="/wiki/Topic:Introduction_to_Programming_Logic" title="Topic:Introduction to Programming Logic" class="mw-redirect">Introduction to Programming Logic</a> -- 4 Lessons</li>
+<li><a href="/wiki/Topic:Object-Oriented_Programming" title="Topic:Object-Oriented Programming" class="mw-redirect">Object-Oriented Programming</a> -- 0 Lessons</li>
+<li><a href="/wiki/Topic:Functional_Programming" title="Topic:Functional Programming" class="mw-redirect">Functional Programming</a> -- 0 Lessons</li>
+<li><a href="/wiki/Topic:Logical_Programming" title="Topic:Logical Programming" class="mw-redirect">Logic Programming</a> -- 0 Lessons</li>
+<li><a href="/w/index.php?title=Topic:List_Programming&amp;action=edit&amp;redlink=1" class="new" title="Topic:List Programming (page does not exist)">List Programming</a> -- 0 Lessons</li>
+<li><a href="/w/index.php?title=Topic:AI_programming&amp;action=edit&amp;redlink=1" class="new" title="Topic:AI programming (page does not exist)">AI Programming</a> -- 0 Lessons</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=4" title="Edit section: Applied topics">edit</a>]</span> <span class="mw-headline" id="Applied_topics">Applied topics</span></h2>
+<ul>
+<li><a href="/wiki/Hungarian_Notation" title="Hungarian Notation" class="mw-redirect">Hungarian Notation</a></li>
+<li>Linux Programming
+<ul>
+<li><a href="/wiki/Bash_Programming" title="Bash Programming" class="mw-redirect">Bash Programming</a></li>
+</ul>
+</li>
+<li>Windows Programming
+<ul>
+<li><a href="/wiki/WINAPI_Programming" title="WINAPI Programming">WINAPI Programming</a> -- 2</li>
+<li><a href="/wiki/Topic:MS_70-536_Microsoft_.NET_Framework_2.0" title="Topic:MS 70-536 Microsoft .NET Framework 2.0">MS 70-536 Microsoft .NET Framework 2.0 - Application Development Foundation - using mono</a> -- 0 Lessons (Many external lessons)</li>
+<li><a href="/wiki/Visual_Basic_.NET_2005" title="Visual Basic .NET 2005">Visual Basic .NET 2005</a> -- 1 Lessons</li>
+<li><a href="/wiki/Visual_CSharp.NET_2005" title="Visual CSharp.NET 2005">Visual C#.NET 2005</a> -- 3 Lessons</li>
+<li><a href="/w/index.php?title=Visual_C%2B%2B.NET_2005&amp;action=edit&amp;redlink=1" class="new" title="Visual C++.NET 2005 (page does not exist)">Visual C++.NET 2005</a> -- 0 Lessons</li>
+</ul>
+</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=5" title="Edit section: Computer Programming Languages">edit</a>]</span> <span class="mw-headline" id="Computer_Programming_Languages">Computer Programming Languages</span></h2>
+<div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: transparent; table-layout: fixed">
+<tr valign="top">
+<td>
+<div style="margin-right: 20px">
+<h3><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=6" title="Edit section: Available">edit</a>]</span> <span class="mw-headline" id="Available">Available</span></h3>
+<ul>
+<li><a href="/wiki/Topic:ActionScript" title="Topic:ActionScript">ActionScript</a> -- 1 Lesson</li>
+<li><a href="/wiki/Topic:Assembly_Language" title="Topic:Assembly Language" class="mw-redirect">Assembly Language</a> -- 3 Lessons</li>
+<li><a href="/wiki/Topic:C" title="Topic:C">C</a> -- 14 Lessons</li>
+<li><a href="/wiki/Topic:C%2B%2B" title="Topic:C++" class="mw-redirect">C++</a> -- 11 Lessons</li>
+<li><a href="/wiki/Topic:Clojure" title="Topic:Clojure">Clojure</a> -- 0 Lessons</li>
+<li><a href="/wiki/Topic:D" title="Topic:D">D</a> -- 1 Lesson</li>
+<li><a href="/wiki/Topic:C_Sharp" title="Topic:C Sharp">C#</a> -- 6 Lessons</li>
+<li><a href="/wiki/Topic:HTML" title="Topic:HTML" class="mw-redirect">HTML</a> -- 11 Lessons</li>
+<li><a href="/wiki/Topic:Java" title="Topic:Java">Java</a> -- Main course "<a href="/wiki/Learning_JAVA" title="Learning JAVA" class="mw-redirect">Learning JAVA</a>" has 19 Lessons</li>
+<li><a href="/wiki/Topic:Javascript" title="Topic:Javascript" class="mw-redirect">JavaScript</a> -- 5 Lessons</li>
+<li><a href="/wiki/Topic:OCaml" title="Topic:OCaml">OCaml</a> -- 1 Lesson</li>
+<li><a href="/wiki/Topic:Perl" title="Topic:Perl">Perl</a> -- 2 Lessons</li>
+<li><a href="/wiki/Topic:PHP" title="Topic:PHP">PHP</a> -- 8 Lessons</li>
+<li><a href="/wiki/Topic:Python" title="Topic:Python">Python</a> -- 6 Lessons</li>
+<li><a href="/wiki/Topic:Ruby" title="Topic:Ruby">Ruby</a> -- 1 Lesson</li>
+<li><a href="/wiki/Topic:SQL" title="Topic:SQL">SQL</a> -- 1 Lesson</li>
+<li><a href="/wiki/Topic:Visual_Basic" title="Topic:Visual Basic" class="mw-redirect">Visual Basic</a> -- 6 Lessons</li>
+<li><a href="/wiki/Topic:XML" title="Topic:XML">XML</a> -- 1 Lesson</li>
+<li><a href="/wiki/Topic:LOGO" title="Topic:LOGO">LOGO</a> -- Link to LOGO Wikibook</li>
+</ul>
+</div>
+</td>
+<td>
+<div style="margin-right: 20px">
+<h3><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=7" title="Edit section: Planned">edit</a>]</span> <span class="mw-headline" id="Planned">Planned</span></h3>
+<ul>
+<li><a href="/wiki/Ada" title="Ada">Ada</a></li>
+<li><a href="/wiki/COBOL" title="COBOL">COBOL</a></li>
+<li><a href="/w/index.php?title=ColdFusion&amp;action=edit&amp;redlink=1" class="new" title="ColdFusion (page does not exist)">ColdFusion</a></li>
+<li><a href="/wiki/Topic:Eiffel_Programming_Language" title="Topic:Eiffel Programming Language" class="mw-redirect">Eiffel</a></li>
+<li><a href="/w/index.php?title=Topic:Erlang&amp;action=edit&amp;redlink=1" class="new" title="Topic:Erlang (page does not exist)">Erlang</a></li>
+<li><a href="/w/index.php?title=Topic:FORTRAN&amp;action=edit&amp;redlink=1" class="new" title="Topic:FORTRAN (page does not exist)">FORTRAN</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Groovy_(programming_language)" class="extiw" title="w:Groovy (programming language)">Groovy (programming language)</a></li>
+<li><a href="/w/index.php?title=Topic:Haskell&amp;action=edit&amp;redlink=1" class="new" title="Topic:Haskell (page does not exist)">Haskell</a></li>
+<li><a href="/wiki/Topic:JEE" title="Topic:JEE">JEE</a></li>
+<li><a href="/wiki/Topic:JSP" title="Topic:JSP">JSP</a></li>
+<li><a href="/wiki/Topic:Lisp" title="Topic:Lisp">Lisp</a></li>
+<li><a href="/wiki/Topic:Lua" title="Topic:Lua">Lua</a></li>
+<li><a href="/w/index.php?title=Topic:Lush&amp;action=edit&amp;redlink=1" class="new" title="Topic:Lush (page does not exist)">Lush (Lisp-shell with inline-C)</a></li>
+<li><a href="/w/index.php?title=Topic:Object_Pascal&amp;action=edit&amp;redlink=1" class="new" title="Topic:Object Pascal (page does not exist)">Object Pascal (Delphi)</a></li>
+<li><a href="/w/index.php?title=Topic:Objective_C&amp;action=edit&amp;redlink=1" class="new" title="Topic:Objective C (page does not exist)">Objective C</a></li>
+<li><a href="/w/index.php?title=Topic:OpenROAD&amp;action=edit&amp;redlink=1" class="new" title="Topic:OpenROAD (page does not exist)">OpenROAD</a></li>
+<li><a href="/wiki/Topic:Pascal" title="Topic:Pascal">Pascal</a></li>
+<li><a href="/w/index.php?title=Topic:Prolog&amp;action=edit&amp;redlink=1" class="new" title="Topic:Prolog (page does not exist)">Prolog</a></li>
+<li><a href="/w/index.php?title=Topic:QB&amp;action=edit&amp;redlink=1" class="new" title="Topic:QB (page does not exist)">QB</a></li>
+<li><a href="/wiki/Topic:RPGIV" title="Topic:RPGIV" class="mw-redirect">RPG IV</a></li>
+<li><a href="/wiki/Topic:Scheme" title="Topic:Scheme">Scheme</a></li>
+<li><a href="/w/index.php?title=Topic:Smalltalk&amp;action=edit&amp;redlink=1" class="new" title="Topic:Smalltalk (page does not exist)">Smalltalk</a></li>
+<li><a href="/wiki/Topic:Squeak" title="Topic:Squeak" class="mw-redirect">Squeak</a></li>
+<li><a href="/wiki/Topic:Subfile_Programming" title="Topic:Subfile Programming" class="mw-redirect">Subfile Programming</a></li>
+<li><a href="/wiki/Topic:TCL" title="Topic:TCL">TCL</a></li>
+<li><a href="/wiki/Turing" title="Turing">Turing</a></li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=8" title="Edit section: Specialized programming environments">edit</a>]</span> <span class="mw-headline" id="Specialized_programming_environments">Specialized programming environments</span></h3>
+<ul>
+<li><a href="/wiki/Topic:MUD_object_oriented" title="Topic:MUD object oriented">MOO</a> - object oriented techniques for <a href="http://en.wikipedia.org/wiki/MUD" class="extiw" title="w:MUD">Multi-User Domain</a> environments.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=9" title="Edit section: Learning materials and learning projects">edit</a>]</span> <span class="mw-headline" id="Learning_materials_and_learning_projects">Learning materials and learning projects</span></h2>
+<p><a href="/wiki/Portal:Learning_Materials" title="Portal:Learning Materials">Portal:Learning Materials</a><br />
+<a href="/wiki/Portal:Learning_Projects" title="Portal:Learning Projects">Portal:Learning Projects</a></p>
+<p>Wikiversity has adopted the "learning by doing" model for education. Lessons should center on learning activities for Wikiversity participants. Learning materials and learning projects can be used by multiple departments. Cooperate with other departments that use the same learning resource.</p>
+<p>Learning materials and <a href="/wiki/Portal:Learning_Projects" title="Portal:Learning Projects">learning projects</a> are located in the main Wikiversity namespace. Simply make a <a href="/wiki/Link" title="Link">link</a> to the name of the lesson (lessons are independent pages in the <a href="/wiki/Wikiversity:Namespaces" title="Wikiversity:Namespaces">main namespace</a>) and start writing!</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=10" title="Edit section: Textbooks">edit</a>]</span> <span class="mw-headline" id="Textbooks">Textbooks</span></h3>
+<ul>
+<li><a href="http://en.wikibooks.org/wiki/Java_Programming" class="extiw" title="b:Java Programming">Java Programming</a></li>
+<li><a href="http://en.wikibooks.org/wiki/C%2B%2B_Programming" class="extiw" title="b:C++ Programming">C++ Programming</a></li>
+<li><a href="http://en.wikibooks.org/wiki/C_Programming" class="extiw" title="b:C Programming">C Programming</a></li>
+<li><a href="http://en.wikibooks.org/wiki/Programming:D" class="extiw" title="b:Programming:D">D Programming</a></li>
+<li><a href="http://en.wikibooks.org/wiki/XForms" class="extiw" title="b:XForms">XForms</a></li>
+<li><a href="http://en.wikibooks.org/wiki/XQuery" class="extiw" title="b:XQuery">XQuery</a></li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=11" title="Edit section: Exercise collections">edit</a>]</span> <span class="mw-headline" id="Exercise_collections">Exercise collections</span></h3>
+<ul>
+<li><a href="http://tryruby.hobix.com" class="external text" rel="nofollow">Try Ruby interactively in your web browser</a></li>
+<li><a href="http://nifty.stanford.edu/" class="external text" rel="nofollow">Nifty Assignments</a></li>
+<li><a href="/wiki/Vector_analysis" title="Vector analysis">Vector analysis</a></li>
+<li><a href="/wiki/Object_Oriented_Software_Design" title="Object Oriented Software Design">Object Oriented Software Design</a></li>
+<li><a href="/wiki/UML" title="UML">UML</a></li>
+<li><a href="http://en.wikibooks.org/wiki/XForms_XForms" class="extiw" title="b:XForms XForms">Build advanced web forms without JavaScript</a></li>
+</ul>
+<h4><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=12" title="Edit section: Literature on programming exercises">edit</a>]</span> <span class="mw-headline" id="Literature_on_programming_exercises">Literature on programming exercises</span></h4>
+<ul>
+<li>Exercise design for introductory programming&#160;: "Learn-by-Doing" basic <a href="/wiki/Topic:Object-Oriented_Programming" title="Topic:Object-Oriented Programming" class="mw-redirect">O-O-concepts</a> using Inverted Curriculum Marcel Kessler. Master thesis, ETH Zürich, 2004; ETH, Eidgenössische Technische Hochschule Zürich, Department of Computer Science, Chair of Software Engineering, 2004 <a href="http://e-collection.ethbib.ethz.ch/show?type=dipl&amp;nr=186" class="external autonumber" rel="nofollow">[1]</a></li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=13" title="Edit section: Learning projects">edit</a>]</span> <span class="mw-headline" id="Learning_projects">Learning projects</span></h3>
+<ul>
+<li><a href="/wiki/MediaWiki_Project" title="MediaWiki Project">MediaWiki Project</a> - from introductory HTML to advanced <a href="http://meta.wikimedia.org/wiki/MediaWiki" class="extiw" title="m:MediaWiki">MediaWiki</a> hacking.... participants develop new MediaWiki features for the Wikiversity community.</li>
+<li><a href="/wiki/CisLunarFreighter" title="CisLunarFreighter">CisLunarFreighter</a> (Game Development Project).</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=14" title="Edit section: Active participants">edit</a>]</span> <span class="mw-headline" id="Active_participants">Active participants</span></h2>
+<p>The histories of Wikiversity pages indicate who the active participants are. If you are an active participant in this department, you can list your name here (this can help small departments grow and the participants communicate better; for large departments a list of active participants is not needed).</p>
+<ul>
+<li><a href="/wiki/User:JordanP" title="User:JordanP">JordanP</a> (Beginer: CSS, HTML, XHTML, Python, PHP, Flash, Java)</li>
+<li><a href="/wiki/User:Aepex" title="User:Aepex">Aepex</a> (Computer Science)</li>
+<li><a href="/wiki/User:AmiDaniel" title="User:AmiDaniel" class="mw-redirect">AmiDaniel</a> -- VB6, Java, various others</li>
+<li><a href="/wiki/User:CQ" title="User:CQ">CQuinton</a> <a href="/wiki/User_talk:CQ" title="User talk:CQ"><sup>(talk)</sup></a> (<a href="/wiki/Topic:Perl" title="Topic:Perl">Perl</a>, <a href="/wiki/Topic:PHP" title="Topic:PHP">PHP</a>, <a href="/wiki/Topic:Python" title="Topic:Python">Python</a>... help with Intro to Programming and <a href="http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computer_science" class="extiw" title="w:Wikipedia:WikiProject Computer science">Computer science</a> in general)</li>
+<li><a href="/w/index.php?title=User:Crossbow9&amp;action=edit&amp;redlink=1" class="new" title="User:Crossbow9 (page does not exist)">Crossbow9</a></li>
+<li><a href="/wiki/User:Devourer09" title="User:Devourer09">Devourer09</a> (Computer Science)</li>
+<li><a href="/wiki/User:Dmclean" title="User:Dmclean">Donald McLean</a> -- <a href="/wiki/Introduction_to_Programming" title="Introduction to Programming">Introduction to Programming</a> and the companion course <a href="/wiki/Introduction_to_Programming_in_Java" title="Introduction to Programming in Java">Introduction to Programming in Java</a></li>
+<li><a href="/wiki/User:Draicone" title="User:Draicone"><b>Draicone</b></a> <a href="/wiki/User_talk:Draicone" title="User talk:Draicone"><sup><span style="color: #FF9933;">(talk)</span></sup></a> (PHP, C, C++, Javascript, Pascal, Python, Perl, RoR, General OO, Intro to Programming)</li>
+<li><a href="/wiki/User:GirishPandit" title="User:GirishPandit">Girish Pandit</a>(Java, J2EE, SOA, Data Structures, Design Patterns,Database, PHP)</li>
+<li><a href="/wiki/User:Hillgentleman" title="User:Hillgentleman">Hillgentleman</a>--interested to learn PHP</li>
+<li><a href="/wiki/User:JaK81600" title="User:JaK81600">JaK81600</a> (Computer Science)</li>
+<li><a href="/wiki/User:Mark-roberts" title="User:Mark-roberts">Mark Roberts</a> (Computer Science)</li>
+<li><a href="/wiki/User:MichaelBillington" title="User:MichaelBillington">Michael Billington</a> (<a href="/wiki/User_talk:MichaelBillington" title="User talk:MichaelBillington">talk</a> • <a href="/wiki/Special:Contributions/MichaelBillington" title="Special:Contributions/MichaelBillington">contribs</a>) (VB6, C, and apparently PHP)</li>
+<li><a href="/w/index.php?title=User:NickSentowski&amp;action=edit&amp;redlink=1" class="new" title="User:NickSentowski (page does not exist)">NickSentowski</a> <a href="/wiki/User_talk:NickSentowski" title="User talk:NickSentowski"><sup>(talk)</sup></a></li>
+<li><a href="/w/index.php?title=User:OMouse&amp;action=edit&amp;redlink=1" class="new" title="User:OMouse (page does not exist)">OMouse</a> (<a href="/wiki/Topic:D" title="Topic:D">D programming language</a>, general proof-reading and filling in the gaps)</li>
+<li><a href="/wiki/User:Pedro.Gonnet" title="User:Pedro.Gonnet">Pedro Gonnet</a> <a href="/wiki/User_talk:Pedro.Gonnet" title="User talk:Pedro.Gonnet"><sup>(talk)</sup></a></li>
+<li><a href="/w/index.php?title=User:Punk_Boi_8&amp;action=edit&amp;redlink=1" class="new" title="User:Punk Boi 8 (page does not exist)">Punk Boi 8</a></li>
+<li><a href="/w/index.php?title=User:Quasar&amp;action=edit&amp;redlink=1" class="new" title="User:Quasar (page does not exist)">Quasar</a> <a href="/wiki/User_talk:Quasar" title="User talk:Quasar"><sup>(talk)</sup></a>(C Programming, C++, Data Structures, Java)</li>
+<li><a href="/wiki/User:Raghunandanan" title="User:Raghunandanan">raghunandanan</a> 05:05, 9 May 2007 (UTC) a beginner</li>
+<li><a href="/wiki/User:Richard2me" title="User:Richard2me">Richard2me</a> (Computer Science)</li>
+<li><a href="/wiki/User:Xlbnushk" title="User:Xlbnushk">Xlbnushk</a> -- (X)HTML, CSS, JavaScript, PHP, MySQL, MSSQL</li>
+<li><a href="/w/index.php?title=User:Cslashb&amp;action=edit&amp;redlink=1" class="new" title="User:Cslashb (page does not exist)">Cslashb</a> HTML, CSS &amp; Visual Basic, learning Java, C# &amp; C++</li>
+<li><a href="/w/index.php?title=User:Charles_Mwiyeretsi&amp;action=edit&amp;redlink=1" class="new" title="User:Charles Mwiyeretsi (page does not exist)">Charles Mwiyeretsi</a> ( SQL, Java, PHP, C, CSS...)</li>
+<li><a href="/w/index.php?title=User:Gadaba&amp;action=edit&amp;redlink=1" class="new" title="User:Gadaba (page does not exist)">Gadaba</a> ( SQL, Java, PHP, C, CSS...,Game Design)</li>
+<li><a href="/w/index.php?title=User:Josh_Sandlin&amp;action=edit&amp;redlink=1" class="new" title="User:Josh Sandlin (page does not exist)">Josh Sandlin</a> (Linux Programming)</li>
+<li><a href="/w/index.php?title=User:Prototype&amp;action=edit&amp;redlink=1" class="new" title="User:Prototype (page does not exist)">Prototype</a> (Visual Basic, HTML, PHP + SQL)</li>
+<li><a href="/wiki/User:Prawstho" title="User:Prawstho">Peter Rawsthorne</a> (LAMP beginner)</li>
+<li><a href="/wiki/User:Got2no" title="User:Got2no">Mathieu</a> (LAMP, C, Java, HTML, CSS beginner)</li>
+<li><a href="/w/index.php?title=User:Jekrox&amp;action=edit&amp;redlink=1" class="new" title="User:Jekrox (page does not exist)">Jekrox</a> (QB, HTML, Visual Basic)</li>
+<li><a href="/wiki/User:AFriedman" title="User:AFriedman">AFriedman</a></li>
+<li><a href="/w/index.php?title=User:Rbhagwandin&amp;action=edit&amp;redlink=1" class="new" title="User:Rbhagwandin (page does not exist)">Rbhagwandin</a> 16:34, 8 May 2009 (UTC)</li>
+<li>Hitesh Kumar</li>
+<li><a href="/w/index.php?title=User:Dayne&amp;action=edit&amp;redlink=1" class="new" title="User:Dayne (page does not exist)">Dayne</a> (Computer Programming)</li>
+<li><a href="/wiki/User:Grunny" title="User:Grunny">Grunny</a></li>
+<li><a href="/wiki/User:Forbesbuck" title="User:Forbesbuck">forbesbuck</a> 15:00, 8 Dec 2010 (just looking to learn code)</li>
+<li><a href="/w/index.php?title=User:HardCoder&amp;action=edit&amp;redlink=1" class="new" title="User:HardCoder (page does not exist)">HardCoder</a></li>
+<li><a href="/wiki/User:Ernie.cordell" title="User:Ernie.cordell">Ernie.cordell</a> 19:08, 1 February 2011 (UTC) (serious computer scientist)</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=15" title="Edit section: Resources">edit</a>]</span> <span class="mw-headline" id="Resources">Resources</span></h2>
+<ul>
+<li><a href="http://www.wikia.com/wiki/Category:Programming" class="external text" rel="nofollow">Category:Programming</a> at <b><a href="/wiki/Wikia" title="Wikia">Wikia.com</a></b></li>
+<li><a href="http://www-cs-faculty.stanford.edu/~knuth/" class="external text" rel="nofollow">Knuth website</a></li>
+<li>...</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a href="http://el.media.mit.edu/Logo-foundation/logo/index.html" class="external text" rel="nofollow">Logo</a></li>
+<li><a href="http://code.google.com/soc/2008/" class="external text" rel="nofollow">Google Summer of Code 2008</a></li>
+<li><a href="http://code.google.com/edu/" class="external text" rel="nofollow">Google Code University</a></li>
+<li><a href="http://sourceforge.net/projects/rtumldesigner/" class="external text" rel="nofollow">Collaborative UML Designer</a> - <i>Collaborative UML Designer is a real-time collaborative web application that allows to model UML 2.0 class diagrams in a distributed environment.</i></li>
+<li><a href="http://sourceforge.net/projects/xcde/?abmode=1" class="external text" rel="nofollow">eXtreme Collaborative Development Environment</a>- <i>a plugin for Eclipse that adds support for real-time collaborative editing over the Internet, letting developers work on the same files at the same time</i></li>
+</ul>
+<div style="float:right; clear:right; margin-left:5px; margin-bottom:1px; margin-top:1px; border:1px solid Gold;">
+<table cellspacing="0" style="width:238px; background:Ivory;&#160;; border:0px;">
+<tr>
+<td style="width:45px;height:45px;background:#ff9;text-align:center;border:0px;"><a href="/wiki/File:Sciences_humaines.svg" class="image"><img alt="Sciences humaines.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sciences_humaines.svg/36px-Sciences_humaines.svg.png" width="36" height="36" /></a></td>
+<td style="font-size:8pt; padding:0.5em; line-height:1.25em; border:0px;"><b><a href="/wiki/Help:Resources_by_educational_level" title="Help:Resources by educational level">Educational level</a></b>: this is a <a href="/wiki/Portal:Tertiary_Education" title="Portal:Tertiary Education">tertiary</a> (university) resource.</td>
+</tr>
+</table>
+</div>
+<div style="float:right; clear:right; margin-left:5px; margin-bottom:1px; margin-top:1px; border:1px solid #E78A69;">
+<table cellspacing="0" style="width:238px; background:Seashell;&#160;; border:0px;">
+<tr>
+<td style="width:45px;height:45px;background:Peachpuff;text-align:center;border:0px;"><a href="/wiki/File:Crystal_Clear_Sharemanager.png" class="image"><img alt="Crystal Clear Sharemanager.png" src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Crystal_Clear_Sharemanager.png/36px-Crystal_Clear_Sharemanager.png" width="36" height="36" /></a></td>
+<td style="font-size:8pt; padding:0.5em; line-height:1.25em; border:0px;"><b><a href="/wiki/Help:Resources_by_type" title="Help:Resources by type">Resource type</a></b>: this resource is a course.</td>
+</tr>
+</table>
+</div>
+<div style="float:right; clear:right; margin-left:5px; margin-bottom:1px; margin-top:1px; border:1px solid #C289C3;">
+<table cellspacing="0" style="width:238px; background:#FFF8FF;&#160;; border:0px;">
+<tr>
+<td style="width:45px;height:45px;background:#E6C6E6;text-align:center;border:0px;"><a href="/wiki/File:Nuvola_apps_kcmsystem.svg" class="image"><img alt="Nuvola apps kcmsystem.svg" src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/36px-Nuvola_apps_kcmsystem.svg.png" width="36" height="36" /></a></td>
+<td style="font-size:8pt; padding:0.5em; line-height:1.25em; border:0px;"><b><a href="/wiki/Help:Resources_by_subject" title="Help:Resources by subject">Subject classification</a></b>: this is an <a href="/wiki/Portal:Engineering" title="Portal:Engineering" class="mw-redirect">engineering</a> resource .</td>
+</tr>
+</table>
+</div>
+<div style="float:right; clear:right; margin-left:5px; margin-bottom:1px; margin-top:1px; border:1px solid #E78A69;">
+<table cellspacing="0" style="width:238px; background:Seashell;&#160;; border:0px;">
+<tr>
+<td style="width:45px;height:45px;background:Peachpuff;text-align:center;border:0px;"><a href="/wiki/File:Nuvola_apps_kcontrol.gif" class="image"><img alt="Nuvola apps kcontrol.gif" src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nuvola_apps_kcontrol.gif/36px-Nuvola_apps_kcontrol.gif" width="36" height="36" /></a></td>
+<td style="font-size:8pt; padding:0.5em; line-height:1.25em; border:0px;"><b><a href="/wiki/Help:Resources_by_completion_status" title="Help:Resources by completion status">Completion status</a></b>: this resource is well on its way to completion, but there may still be work to do.</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 511/1000000
+Post-expand include size: 7860/2048000 bytes
+Template argument size: 1098/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwikiversity:pcache:idhash:2482-0!*!0!!en!4 and timestamp 20110607034105 -->
+<div class="printfooter">
+Retrieved from "<a href="http://en.wikiversity.org/wiki/Topic:Computer_programming">http://en.wikiversity.org/wiki/Topic:Computer_programming</a>"</div>
+				<!-- /bodytext -->
+								<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <span dir='ltr'><a href="/wiki/Category:Tertiary_Education" title="Category:Tertiary Education">Tertiary Education</a></span> | <span dir='ltr'><a href="/wiki/Category:Engineering" title="Category:Engineering">Engineering</a></span> | <span dir='ltr'><a href="/wiki/Category:Computer_programming" title="Category:Computer programming">Computer programming</a></span> | <span dir='ltr'><a href="/wiki/Category:Information_science_departments" title="Category:Information science departments">Information science departments</a></span> | <span dir='ltr'><a href="/wiki/Category:Programming_languages" title="Category:Programming languages">Programming languages</a></span></div><div id="mw-hidden-catlinks" class="mw-hidden-cats-hidden">Hidden category: <span dir='ltr'><a href="/wiki/Category:Resources_nearing_completion" title="Category:Resources nearing completion">Resources nearing completion</a></span></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+					<li  id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Topic:Computer_programming" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in / create account</a></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-topic" class="selected"><span><a href="/wiki/Topic:Computer_programming" >Topic</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Topic_talk:Computer_programming"  title="Discussion about the content page [t]" accesskey="t">Discuss</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+		<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Topic:Computer_programming" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Topic:Computer_programming&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible "><span><a href="/w/index.php?title=Topic:Computer_programming&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+		<input type='hidden' name="title" value="Special:Search"/>
+				<div id="simpleSearch">
+						<input id="searchInput" name="search" type="text"  title="Search Wikiversity [f]" accesskey="f"  value="" />
+						<button id="searchButton" type='submit' name='button'  title="Search the pages for this text"><img src="http://bits.wikimedia.org/skins-1.17/vector/images/search-ltr.png?301-2" alt="Search" /></button>
+					</div>
+			</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(http://upload.wikimedia.org/wikiversity/en/b/bc/Wiki.png);" href="/wiki/Wikiversity:Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+				<ul>
+					<li id="n-Main-Page"><a href="/wiki/Wikiversity:Main_Page">Main Page</a></li>
+					<li id="n-Browse"><a href="/wiki/Wikiversity:Browse">Browse</a></li>
+					<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+					<li id="n-Guided-tours"><a href="/wiki/Help:Guides">Guided tours</a></li>
+					<li id="n-Random"><a href="/wiki/Special:Random">Random</a></li>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+					<li id="n-sitesupport"><a href="http://wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Community -->
+<div class="portal" id='p-Community'>
+	<h5>Community</h5>
+	<div class="body">
+				<ul>
+					<li id="n-portal"><a href="/wiki/Wikiversity:Community_Portal" title="About the project, what you can do, where to find things">Portal</a></li>
+					<li id="n-Colloquium"><a href="/wiki/Wikiversity:Colloquium">Colloquium</a></li>
+					<li id="n-currentevents"><a href="/wiki/Wikiversity:News" title="Find background information on current events">News</a></li>
+					<li id="n-Projects"><a href="/wiki/Wikiversity:Community_projects">Projects</a></li>
+					<li id="n-Sandbox"><a href="/wiki/Wikiversity:Sandbox">Sandbox</a></li>
+					<li id="n-Help-desk"><a href="/wiki/Wikiversity:Help_desk">Help desk</a></li>
+				</ul>
+			</div>
+</div>
+
+<!-- /Community -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+				<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Topic%3AComputer+programming" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Topic%3AComputer+programming&amp;oldid=710198&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Topic:Computer_programming&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>			</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- TOOLBOX -->
+<div class="portal" id="p-tb">
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Topic:Computer_programming" title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+						<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Topic:Computer_programming" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+																																										<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="List of all special pages [q]" accesskey="q">Special pages</a></li>
+											<li id="t-permalink"><a href="/w/index.php?title=Topic:Computer_programming&amp;oldid=710198" title="Permanent link to this revision of the page">Permanent link</a></li>
+						</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+<div class="portal" id="p-lang">
+	<h5>In other languages</h5>
+	<div class="body">
+		<ul>
+					<li class="interwiki-es"><a href="http://es.wikiversity.org/wiki/Lenguajes_de_Programaci%C3%B3n" title="Lenguajes de Programación">Español</a></li>
+					<li class="interwiki-fr"><a href="http://fr.wikiversity.org/wiki/D%C3%A9partement:Programmation_informatique" title="Département:Programmation informatique">Français</a></li>
+					<li class="interwiki-ja"><a href="http://ja.wikiversity.org/wiki/Topic:%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0" title="Topic:プログラミング">日本語</a></li>
+					<li class="interwiki-ru"><a href="http://ru.wikiversity.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Программирование">Русский</a></li>
+				</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+											<ul id="footer-info">
+																	<li id="footer-info-lastmod"> This page was last modified on 3 March 2011, at 17:03.</li>
+																							<li id="footer-info-copyright">Text is available under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution/Share-Alike License</a>;
+additional terms may apply.
+See <a href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li>
+															</ul>
+															<ul id="footer-places">
+																	<li id="footer-places-privacy"><a href="http://wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+																							<li id="footer-places-about"><a href="/wiki/Wikiversity:About" title="Wikiversity:About">About Wikiversity</a></li>
+																							<li id="footer-places-disclaimer"><a href="/wiki/Wikiversity:General_disclaimer" title="Wikiversity:General disclaimer">Disclaimers</a></li>
+															</ul>
+											<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="http://wikimediafoundation.org/"><img src="http://bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="http://www.mediawiki.org/"><img src="http://bits.wikimedia.org/skins-1.17/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		
+<script src="http://bits.wikimedia.org/en.wikiversity.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mediaWiki.config.set({"wgCanonicalNamespace": "Topic", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 104, "wgPageName": "Topic:Computer_programming", "wgTitle": "Computer programming", "wgAction": "view", "wgArticleId": 2482, "wgIsArticle": true, "wgUserName": null, "wgUserGroups": ["*"], "wgCurRevisionId": 710198, "wgCategories": ["Tertiary Education", "Engineering", "Resources nearing completion", "Computer programming", "Information science departments", "Programming languages"], "wgBreakFrames": false, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "templateEditor": false, "templates": false, "addMediaWizard": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikiversity"});
+}
+</script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mediaWiki.loader.load(["mediawiki.legacy.wikibits", "mediawiki.util", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch"]);
+	mediaWiki.loader.go();
+}
+</script>
+
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;301-2" type="text/javascript"></script>
+<script src="http://bits.wikimedia.org/en.wikiversity.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector" type="text/javascript"></script>
+<script type="text/javascript">if ( window.mediaWiki ) {
+	mediaWiki.user.options.set({"ccmeonemails":0,"cols":80,"contextchars":50,"contextlines":5,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,
+	"watchlistdays":"3","watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs102":false,"searchNs103":false,"searchNs104":false,"searchNs105":false,"searchNs106":false,"searchNs107":false});;mediaWiki.loader.state({"user.options":"ready"});
+	
+	/* cache key: enwikiversity:resourceloader:filter:minify-js:5:31d78b92969b36e665934270a9e63963 */
+}
+</script><script type="text/javascript" src="http://geoiplookup.wikimedia.org/"></script>		<!-- fixalpha -->
+		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
+		<!-- /fixalpha -->
+		<!-- Served by srv203 in 0.338 secs. -->			</body>
+</html>

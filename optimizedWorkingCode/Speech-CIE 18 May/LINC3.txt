@@ -1,0 +1,211 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Abraham Lincoln Quotes - The Quotations Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" >
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<LINK REL="shortcut icon" HREF="/favicon.ico" TYPE="image/x-icon">
+<LINK REL="stylesheet" type="text/css" HREF="/qp.css">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1805249-2";
+urchinTracker();
+</script>
+<!--end navscript-->
+</head>
+
+<body bgcolor="#8CCEF7">
+<table id="headtable"><tr>
+   <td id="logo">
+<a href='/' title='Return to the Home Page'><img src="/tag3.gif" alt="The Quotations Page" width="200" height="57" vspace="0" border="0"></a>   </td>
+   <td id="search" align="right">
+   	  <form id="searchform" method="GET" action="/search.php3">
+      <a href="/search.php3">Quotation Search</a> by keyword or author:<br>
+      <input type="text" name="homesearch" size="20" value="">
+	  <input type="submit" name="startsearch" id="startsearch" value="Search">
+	  </form>
+   </td>
+</tr></table>
+
+<div id="adbanner" align="center">
+<!-- Casale Media: Pop Under -->
+<script type="text/javascript"><!--
+var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
+var casaleU=escape(window.location.href);
+var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
+document.write('<scr'+'ipt'+casaleHost+'62855&amp;u=');
+document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
+//--></script>
+<!-- DO NOT MODIFY -->
+
+
+<script type="text/javascript"><!--
+   e9 = new Object();
+   e9.size = "728x90,468x60";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TheQuotationsPage/ROS/tags.js"></script>
+
+
+</div>
+
+<table id="maintable"><tr>
+   <td id="nav" valign="top" nowrap>
+   
+<ul class="navbar">
+<li><a  title="" href="/"> Home </a></li>
+<li><a  title="" href="/weblog/"> Weblog </a></li>
+<li><a  title="" href="/qotd.html"> Quotes of the Day </a></li>
+<li><a  title="" href="/mqotd.html"> Motivational </a></li>
+<li><a id="current" title="You are Here" href="/quotes/"> Author Index </a></li>
+<li><a  title="" href="/subjects/"> Subject Index </a></li>
+<li><a  title="" href="/search.php3"> Search </a></li>
+<li><a  title="" href="/random.php3"> Random Quotes </a></li>
+<li><a  title="" href="/wotd.html"> Word of the Day </a></li>
+<li><a  title="" href="/books.php3"> Book Reviews </a></li>
+<li><a  title="" href="/forum/"> Forums </a></li>
+<li><a  title="" href="/links.php3"> Links </a></li>
+<li><a  title="" href="/myquotations.php"> Your Page </a></li>
+</ul>
+
+<ul class="navlist">
+	<li><a class="nav2" href="/contribute.php" title="Contribute quotations for our collection">Contribute Quotes</a></li>
+	<li><a class="nav2" href="/special.php3" title="Articles and Special Features">Articles</a></li>
+	<li><a class="nav2" href="/lists.php3" title="Mailing lists for daily quotations">Mailing Lists</a><br></li>
+	<li><a class="nav2" href="/useourquotes.php" title="Use our Daily Quotes on your Web page!">Use our Quotes</a></li>
+	<li><a class="nav2" href="/about.html">About this Site</a></li>
+	<li><a class="nav2" href="/faq.php" title="Frequently Asked Questions">FAQ</a></li>
+	<li><a class="nav2" href="/advertise.php3">Advertise Here</a></li>
+	<li><a class="nav2" href="/mail.php3" title="Send us Email">Contact Us</a><br></li>
+</ul>
+ <a class="nav2" href="http://www.literaturepage.com/"><strong>Read books online</strong></a><br>
+ at our other site:<br>
+ <a class="nav2" href="http://www.literaturepage.com/"><strong>The Literature Page</strong></a>
+	 <p>  </p>
+   </td>
+   <td id="content" valign="top">
+<h1 align="center">Quotations by Author</h1>
+
+<table width="95%" align="center" cellspacing="2" cellpadding="3"><tr><td width="95%" align="center" valign="middle" bgcolor="#B5DEFC">
+<b>Abraham Lincoln  (1809 - 1865) </b><br>
+<i>16th president of US</i> <a href="/author.php?author=Abraham+Lincoln">[more author details]</a><br>
+</td></tr></table>
+<table width="95%" align="center" cellspacing="2" cellpadding="3">
+<tr>
+<td width="25%" align="left" valign="middle" bgcolor="#B5DEFC"></td>
+<td width="50%" align="center" bgcolor="#B5DEFC">
+ <small>Showing quotations 1 to 30 of 38 total</small>
+</td>
+<td width="25%" align="right" valign="middle" bgcolor="#B5DEFC"><a href="/quotes/Abraham_Lincoln/31"><b>Next Page -&gt;</b></a></td>
+</tr>
+</table>
+	 &nbsp;&nbsp;&nbsp;&nbsp; - <b>We have <a href="/books.php3?xref=Abraham+Lincoln">2 book reviews</a> related to Abraham Lincoln.</b><br>
+ &nbsp;&nbsp;&nbsp;&nbsp; - <a href="http://www.literaturepage.com/authors/Abraham-Lincoln.html"><b>Read the works of Abraham Lincoln online</b></a> at <a href="http://www.literaturepage.com">The Literature Page</a><br>
+<dl>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/2958.html">Always bear in mind that your own resolution to succeed is more important than any one thing.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/2958.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=2958"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/2958.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b><div class="related"> - More quotations on: [<a href='/subjects/success/'>Success</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/29375.html">Better to remain silent and be thought a fool than to speak out and remove all doubt.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/29375.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=29375"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/29375.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b><div class="related"> - More quotations on: [<a href='/subjects/silence/'>Silence</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/2661.html">Discourage litigation. Persuade your neighbors to compromise whenever you can. As a peacemaker the lawyer has superior opportunity of being a good man. There will still be business enough.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/2661.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=2661"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/2661.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/2196.html">Force is all-conquering, but its victories are short-lived.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/2196.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=2196"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/2196.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b><div class="related"> - More quotations on: [<a href='/subjects/victory/'>Victory</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/1354.html">He can compress the most words into the smallest ideas of any man I ever met.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/1354.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=1354"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/1354.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b><div class="related"> - More quotations on: [<a href='/subjects/language/'>Language</a>] [<a href='/subjects/ideas/'>Ideas</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/29358.html">I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crises. The great point is to bring them the real facts.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/29358.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=29358"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/29358.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/36780.html">I will prepare and some day my chance will come.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/36780.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=36780"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/36780.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/348.html">If I were two-faced, would I be wearing this one?</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/348.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=348"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/348.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/626.html">If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/626.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=626"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/626.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/3162.html">If you would win a man to your cause, first convince him that you are his sincere friend.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/3162.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=3162"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/3162.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/1394.html">It has been my experience that folks who have no vices have very few virtues.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/1394.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=1394"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/1394.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b><div class="related"> - More quotations on: [<a href='/subjects/vices/'>Vices</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/31063.html">It is difficult to make a man miserable while he feels worthy of himself and claims kindred to the great God who made him.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/31063.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=31063"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/31063.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/29273.html">Let me not be understood as saying that there are no bad laws, nor that grievances may not arise for the redress of which no legal provisions have been made. I mean to say no such thing. But I do mean to say that although bad laws, if they exist, should be repealed as soon as possible, still, while they continue in force, for the sake of example they should be religiously observed.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/29273.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=29273"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/29273.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b><div class="related"> - More quotations on: [<a href='/subjects/laws/'>Laws</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/31097.html">Most folks are about as happy as they make up their minds to be.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/31097.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=31097"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/31097.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b><div class="related"> - More quotations on: [<a href='/subjects/happiness/'>Happiness</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/414.html">Nearly all men can stand adversity, but if you want to test a man's character, give him power.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/414.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=414"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/414.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b><div class="related"> - More quotations on: [<a href='/subjects/character/'>Character</a>] [<a href='/subjects/power/'>Power</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/38818.html">No man has a good enough memory to make a successful liar.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/38818.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=38818"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/38818.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/29513.html">No man is good enough to govern another man without that other's consent.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/29513.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=29513"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/29513.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/448.html">Tact is the ability to describe others as they see themselves.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/448.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=448"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/448.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/9582.html">That some should be rich, shows that others may become rich, and, hence, is just encouragement to industry and enterprise.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/9582.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=9582"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/9582.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/2233.html">The probability that we may fail in the struggle ought not to deter us from the support of a cause we believe to be just.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/2233.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=2233"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/2233.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/2870.html">Whatever you are, be a good one.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/2870.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=2870"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/2870.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/2780.html">When the conduct of men is designed to be influenced, persuasion, kind unassuming persuasion, should ever be adopted. It is an old and true maxim that 'a drop of honey catches more flies than a gallon of gall.' So with men. If you would win a man to your cause, first convince him that you are his sincere friend. Therein is a drop of honey that catches his heart, which, say what he will, is the great highroad to his reason, and which, once gained, you will find but little trouble in convincing him of the justice of your cause, if indeed that cause is really a good one.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/2780.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=2780"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/2780.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/2489.html">When you have got an elephant by the hind leg, and he is trying to run away, it's best to let him run.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/2489.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=2489"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/2489.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/514.html">Whenever I hear anyone arguing for slavery, I feel a strong impulse to see it tried on him personally.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/514.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=514"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/514.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/25817.html">You cannot escape the responsibility of tomorrow by evading it today.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/25817.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=25817"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/25817.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/29299.html">You may deceive all the people part of the time, and part of the people all the time, but not all the people all the time.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/29299.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=29299"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/29299.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/844.html">'Tis better to be silent and be thought a fool, than to speak and remove all doubt.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/844.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=844"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/844.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b>, <i>(attributed)</i><div class="related"> - More quotations on: [<a href='/subjects/silence/'>Silence</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/29585.html">When I do good, I feel good; when I do bad, I feel bad, and that is my religion.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/29585.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=29585"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/29585.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b>, <i>(attributed)</i><div class="related"> - More quotations on: [<a href='/subjects/religion/'>Religion</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/27074.html">You can fool some of the people all of the time, and all of the people some of the time, but you can not fool all of the people all of the time.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/27074.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=27074"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/27074.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><img src="/icon_blank.gif" width="16" height="16" alt="" border="0"></div><b>Abraham Lincoln</b>, <i>(attributed)</i></dd>
+
+</dl>
+<blockquote>
+<script type="text/javascript">
+ch_client = "mmoncur";
+ch_type = "mpu";
+ch_width = 500;
+ch_height = 250;
+ch_color_title = "454545";
+ch_color_site_link = "000080";
+ch_color_text = "454545";
+ch_non_contextual = 4;
+ch_vertical ="premium";
+ch_noborders=1;
+ch_sid = "500x250_bottom";
+var ch_queries = new Array( );
+var ch_selected=Math.floor((Math.random()*ch_queries.length));
+if ( ch_selected < ch_queries.length ) {
+ch_query = ch_queries[ch_selected];
+}
+</script>
+<script  src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
+</script>
+</blockquote><table width="95%" align="center" cellspacing="2" cellpadding="3">
+<tr>
+<td width="25%" align="left" valign="middle" bgcolor="#B5DEFC"></td>
+<td width="50%" align="center" bgcolor="#B5DEFC">
+ <small>Showing quotations 1 to 30 of 38 total</small>
+</td>
+<td width="25%" align="right" valign="middle" bgcolor="#B5DEFC"><a href="/quotes/Abraham_Lincoln/31"><b>Next Page -&gt;</b></a></td>
+</tr>
+</table>
+	<table width="95%" cellspacing="0" cellpadding="3" align="center">
+<tr>
+<td width="40%" align="left" valign="middle" bgcolor="#B5DEFC"><b>Previous Author:</b> <a href="/quotes/John_Lilly">John Lilly</a></td>
+<td width="40%" align="right" valign="middle" bgcolor="#B5DEFC"><b>Next Author:</b> <a href="/quotes/Mary_Todd_Lincoln">Mary Todd Lincoln</a></td>
+</tr>
+<tr><td width="97%" colspan="2" align="left" valign="middle" bgcolor="#B5DEFC">
+<b><a href="/quotes/"> Return to Author List </a></b>
+</td></tr>
+</table>
+<div class="authorhead">
+<strong>Browse our complete list of 3150 authors by last name:</strong>
+</div>
+<div class="authorletters">
+<a href="/quotes/A.html"><b>A</b></a> &nbsp;<a href="/quotes/B.html"><b>B</b></a> &nbsp;<a href="/quotes/C.html"><b>C</b></a> &nbsp;<a href="/quotes/D.html"><b>D</b></a> &nbsp;<a href="/quotes/E.html"><b>E</b></a> &nbsp;<a href="/quotes/F.html"><b>F</b></a> &nbsp;<a href="/quotes/G.html"><b>G</b></a> &nbsp;<a href="/quotes/H.html"><b>H</b></a> &nbsp;<a href="/quotes/I.html"><b>I</b></a> &nbsp;<a href="/quotes/J.html"><b>J</b></a> &nbsp;<a href="/quotes/K.html"><b>K</b></a> &nbsp;<a href="/quotes/L.html"><b>L</b></a> &nbsp;<a href="/quotes/M.html"><b>M</b></a> &nbsp;<a href="/quotes/N.html"><b>N</b></a> &nbsp;<a href="/quotes/O.html"><b>O</b></a> &nbsp;<a href="/quotes/P.html"><b>P</b></a> &nbsp;<a href="/quotes/Q.html"><b>Q</b></a> &nbsp;<a href="/quotes/R.html"><b>R</b></a> &nbsp;<a href="/quotes/S.html"><b>S</b></a> &nbsp;<a href="/quotes/T.html"><b>T</b></a> &nbsp;<a href="/quotes/U.html"><b>U</b></a> &nbsp;<a href="/quotes/V.html"><b>V</b></a> &nbsp;<a href="/quotes/W.html"><b>W</b></a> &nbsp;<a href="/quotes/X.html"><b>X</b></a> &nbsp;<a href="/quotes/Y.html"><b>Y</b></a> &nbsp;<a href="/quotes/Z.html"><b>Z</b></a> &nbsp;</div>
+
+<br>
+</td>
+
+
+<td id="right" width="130" valign="top" align="center">
+<script src="http://rcm.amazon.com/e/cm?t=starlingtechnolo&amp;l=st1&amp;search=Abraham%20Lincoln&amp;mode=books&amp;p=11&amp;o=1&amp;bg1=CEE7FF&amp;fc1=000000&amp;lc1=083194&amp;lt1=_blank" type="text/JavaScript"></script>
+<noscript>
+<MAP NAME="boxmap"><AREA alt="" SHAPE="RECT" COORDS="13, 588, 102, 600" HREF="http://rcm.amazon.com/e/cm/privacy-policy.html?o=1" target=main><AREA alt="" COORDS="0,0,10000,10000" HREF="http://www.amazon.com/exec/obidos/redirect-home/starlingtechnolo" target=main></MAP><img src="http://rcm-images.amazon.com/images/G/01/rcm/120x600.gif" width="120" height="600" border="0" usemap="#boxmap" alt="Shop at Amazon.com">
+</noscript>
+</td>
+		
+</tr></table>
+<div id="footer">
+(c) 1994-2010 QuotationsPage.com and <a href="http://www.michaelmoncur.com/">Michael Moncur</a>. 
+  All rights reserved<a href="/zzpage56.html" onclick="return false;"
+  style="color: black; text-decoration: none;">.</a>
+   Please read the <a href="/about.html#disclaimer">disclaimer</a>.
+</div>
+</body>
+</html>

@@ -1,0 +1,1009 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta name="postinfo" content="/scripts/postinfo.asp">
+<meta name="alexaVerifyID" content="UwPQR6NJg0vj0jYrOZuJDHLsXXc" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="google-site-verification" content="O_pLHRYjUBuW8T5-9lbSnadFKUaRlIi7BbZY-Tdmt4s" />
+<title>Bangalore city resources on the web - Welcome to bangalorebest.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<META name="DESCRIPTION" content=" All you ever wanted to know about bangalore ... the People, the Pubs, the Fashion, the Trends, city information, silicon valley, tours & travels, realty, lifestyle, business, the IT Scene, the Business Scene, the Cinema or the Theatre.">
+
+<META name="Keywords" content="Bangalore, BANGALORE, Bangalore - KARNATAKA, Bangalore - karnataka, Bangalore - kannada, Bangalore - INDIA, Bangalore - india, Bangalore - PORTAL, Bangalore - portal, Bangalore - encyclopedia, Bangalore -  city, Bangalore -  CITY, Bangalore -  NEWS,  Bangalore - news,  Bangalore - internet,  Bangalore - net, Bangalore -  web,  Bangalore - guide,  Bangalore - city guide,  Bangalore - e-brochure, Bangalore -  brochure,  Bangalore - BROCHURE, Bangalore -  NRI, Bangalore -  nri, Bangalore - e-shop, Bangalore -  shopping, Bangalore -  SHOPPING,  Bangalore - e-commerce, Bangalore -  mind,  Bangalore - meets,  Bangalore - mindmeets, Bangalore -  contests,  Bangalore - contest,  Bangalore - greetings,Bangalore -  e-greetings,  Bangalore - virtual, Bangalore -  virtual city,  Bangalore - facts,  Bangalore - data, Bangalore -  maps, Bangalore -  timings, Bangalore -  travel,  Bangalore - transport, Bangalore -  transportation, Bangalore -  visit, Bangalore -  visitors,  Bangalore - help,  Bangalore - helpline, Bangalore - accomodation, Bangalore -  sight seeing, Bangalore -  history, Bangalore -  Personality,  Bangalore - personalities,  Bangalore - people,  Bangalore - learn, Bangalore - learn kannada,  Bangalore - living, Bangalore - bazaar,  Bangalore - buzz,  Bangalore - bazaar buzz, Bangalore -  education, Bangalore -  edu,  Bangalore - health, Bangalore -  fitness,  Bangalore - bangalore fashion, Bangalore -  entertainment, Bangalore -  movies, Bangalore -  music, Bangalore -  dance, Bangalore - concerts, Bangalore -  plays, Bangalore -  clubs, Bangalore -  disco, Bangalore -  art,  Bangalore - culture, Bangalore -  sports, Bangalore -  fun,  Bangalore - centre,  Bangalore - center, Bangalore -  real estate, Bangalore -  real estates, Bangalore -  REAL ESTATE, Bangalore -  medical, Bangalore -  facilities, Bangalore -  facility, Bangalore -  it, Bangalore -  IT, Bangalore -  it world, Bangalore -  world, Bangalore -  brand, Bangalore -  BRAND, Bangalore -  trade, Bangalore -  TRADE,  Bangalore - COMMERCE, Bangalore -  commerce, ngo, NGO,  Bangalore - USEFUL, useful, Bangalore -  links, friends, Bangalore -  about, about us, advertise, advertisements, online, Bangalore -  products, site map, site, Bangalore -  web site">
+<link href="/script/dhtmlwindow.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/script/dhtmlwindow.js"></script>
+<link rel="stylesheet" href="/ssb.css">
+<link rel="stylesheet" type="text/css" href="home.css">
+<link rel="stylesheet" type="text/css" href="index.css">
+
+<link rel="stylesheet" type="text/css" href="/newBest/home.css">
+    <link rel="stylesheet" type="text/css" href="/newBest/newHome.css">
+    <link rel="stylesheet" type="text/css" href="/newBest/ban.css">
+           <script language="javascript" src="newBest/slideshow4.js"></script>
+        <SCRIPT src="newBest/validate.js" type=text/javascript></SCRIPT>
+    
+    <SCRIPT src="newBest/actions.js" type=text/javascript></SCRIPT>
+    
+    <SCRIPT src="newBest/jquery.min.js" type=text/javascript></SCRIPT>
+        <SCRIPT type=text/javascript>
+    $(document).ready(function(){
+         $("#navmenu-h li,#navmenu-v li").hover( function() { 
+         $(this).addClass("iehover"); }, 
+         function() { 
+            $(this).removeClass("iehover"); 
+         }); 
+     });
+     
+    </SCRIPT>
+    
+    <!-- Article Scripts -->
+    
+        <!-- Article Scripts Ends> 
+    
+    
+    
+    
+     <!-- Start VideoLightBox.com HEAD section -->
+		<link rel="stylesheet" href="engine/css/videolightbox.css" type="text/css" />
+		<style type="text/css">#videogallery a#videolb{display:none}</style>
+		
+			<link rel="stylesheet" type="text/css" href="engine/css/overlay-minimal.css"/>
+			<script src="engine/js/jquery.tools.min.js" type="text/javascript"></script>
+			<script src="engine/js/swfobject.js" type="text/javascript"></script>
+			<!-- make all links with the 'rel' attribute open overlays -->
+			<script src="engine/js/videolightbox.js" type="text/javascript"></script>
+		<!-- End VideoLightBox.com HEAD section -->
+        
+        <!-- Starts Header Banner section -->
+        
+        <script type="text/javascript"> Cufon.now(); </script> 
+<script src="js/jquery.nivo.slider.pack.js" type="text/javascript"></script> 
+<script src="js/jquery.scrollTo-min.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+$(window).load(function() {
+	$('#slider').nivoSlider();
+});
+
+</script> 
+<link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" /> 
+
+<script src="js/cufon-yui.js" type="text/javascript"></script> 
+<!-- End Header Banner section -->
+</head>
+ <body  onLoad="runSlideShow4()" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+    
+    <table width="963"  border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="789" rowspan="2"><table width="777" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
+          <tr>
+            <td width="777" align="left"><table width="775" border="0" cellspacing="0" cellpadding="0" align="center">
+                <tr>
+                  <td><table width="775" border="0" cellspacing="0" cellpadding="0" align="center">
+                    <tr>
+                      <td width="166" bgcolor="#003366"><img src="/images/vidhansoudha.jpg" width="164" /></td>
+                      <td width="304" align="left" bgcolor="#003366"><a href="/index.asp"><img src="/images/logo.gif" width="289" height="46" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                      <td width="307" align="left" bgcolor="#003366">
+                      <div id="slider"> 
+		<a href="cityresources/index.asp" title="Yellow Pages" target="_blank"><img src="top-banners-images/yellowpages.jpg" alt="Yellow Pages"/></a> 
+		<a href="builders/bbuilders.asp" title="Best Builders" target="_blank"><img src="top-banners-images/BestBuilders1.jpg" alt="Best Builders" /></a> 
+		<a href="careers/careers.html" title="Best Careers" target="_blank"><img src="top-banners-images/careers.jpg" alt="Careers"  /></a>
+		<a href="http://www.indias-best.com/advertisewithus/" title="Advertisement" target="_blank"><img src="top-banners-images/advertisement.jpg" alt="Advertisement" /> </a>
+		
+	</div> 
+   
+    
+    </td>
+                    </tr>
+                  </table></td>
+              </tr>
+              </table>
+                <table border="0" cellpadding="0" cellspacing="0" width="775" align="center">
+                  <tr >
+                    <td align="center" bgcolor="#999900" colspan="2">
+                    
+                  <table  width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <!--DWLayoutTable-->
+                        <tr>
+                          <td width="303" height="10"  align="center" valign="middle" style=" color:#FFF; font-family:Verdana, Geneva, sans-serif; font-size:11px;">The Number One Website for Bangalore City.</td>
+                          <td style=" color:#FFF; font-family:Verdana, Geneva, sans-serif; font-size:11px; padding-bottom:04px;" width="301" align="center" valign="middle">   Wednesday, May 04, 2011 &nbsp;<font size="+1">|</font>&nbsp;&nbsp;12:46:57 PM           </td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td align="center" class="citilinksbg" style="padding-left:05px;"><a href="http://www.chennaibest.com" class="citilinks" target="_blank">Chennai</a> |&nbsp;<a href="http://www.cochinbest.com" class="citilinks" target="_blank">Cochin</a> | <a href="http://www.coimbatorebest.com" class="citilinks" target="_blank">Coimbatore</a> | <a href="http://www.goabest.com" class="citilinks" target="_blank">Goa</a> | <a href="http://www.hyderabadbest.com" class="citilinks" target="_blank">Hyderabad</a> |<a href="http://www.jaipurbest.com" class="citilinks" target="_blank"> Jaipur</a> | <a href="http://www.kolkatabest.com" class="citilinks" target="_blank">Kolkata</a> | <a href="http://www.mumbaibest.com" class="citilinks" target="_blank">Mumbai</a> |&nbsp;<a href="http://www.newdelhibest.com" class="citilinks" target="_blank">New 
+                      Delhi</a> | <a href="http://www.poonabest.com" class="citilinks" target="_blank">Poona</a></td>
+                    <td align="center" bgcolor="#18558C"  style="padding-left:10px;"><table  border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td valign="top"><img src="/images/search_left_curve.gif" width="7" height="25"></td>
+                          <td classs="searchbg"><!-- SiteSearch Google -->
+                              <!-- Changed according to look and feel of the site if you have any objections please mail to google@vertexinfomedia.com -->
+                              <table border="0" cellspacing="0" cellpadding="0" ID="Table2">
+                                <form method="get" action="http://www.google.co.in/custom" target="_blank" ID="Form1">
+                                  <tr>
+                                    <td valign="middle"class="searchbg" align="left">Search</td>
+                                    <td align="right" valign="middle" class="searchbg">&nbsp;
+                                        <input type="text" name="q" size="15" style="FONT-FAMILY: verdana; FONT-SIZE: 10px" maxlength="255"
+                                    value="" ID="Text1">
+                                      &nbsp;&nbsp;
+                                      <input type="hidden" name="domains" value="BangaloreBest.com" id="Hidden1">
+                                      <input type="hidden" name="sitesearch" value="BangaloreBest.com" id="sitesearch">
+                                      <input type="hidden" name="client" value="pub-7803940910105518" ID="Hidden2">
+                                      <input type="hidden" name="forid" value="1" ID="Hidden3">
+                                      <input type="hidden" name="channel" value="5775488756" ID="Hidden4">
+                                      <input type="hidden" name="ie" value="ISO-8859-1" ID="Hidden5">
+                                      <input type="hidden" name="oe" value="ISO-8859-1" ID="Hidden6">
+                                      <input type="hidden" name="cof" value="GALT:#333399;GL:1;DIV:#33FFFF;VLC:333399;AH:center;BGC:FFFFFF;LBGC:003366;ALC:0066FF;LC:0066FF;T:000000;GFNT:333399;GIMP:333399;LH:46;LW:289;L:http://www.bangalorebest.com/images/logo.gif;S:http://www.bangalorebest.com/;FORID:1;"
+                        ID="Hidden7">
+                                      <input type="hidden" name="hl" value="en" ID="Hidden8">                                </td>
+                                    <td align="right" valign="middle" class="searchbg"><input name="sa" type="image"
+                                    ID="Image1" value="Search" src="/images/go.gif" align="middle" width="15" height="15">                                </td>
+                                    <td align="left" valign="middle" nowrap class="searchbg">&nbsp;</td>
+                                  </tr>
+                                </form>
+                              </table>
+                            <!-- SiteSearch Google -->                      </td>
+                          <td align="right" class="searchbg" valign="top"><img src="/images/search_rt_curve.gif" width="6" height="25"></td>
+                        </tr>
+                      </table>              </tr>
+                  <tr >
+                    <td height="3" colspan="2" class="whiteline"><img src="/images/white_line.gif" width="1" height="3"></td>
+                  </tr>
+                </table><DIV style="POSITION:relative">
+    <DIV style="LEFT: 11px; POSITION: absolute; TOP: -23px">
+                <DIV style="FLOAT: left; WIDTH: 392px; PADDING-TOP: 25px">
+                      <UL id=navmenu-v>
+                        <LI><A href="/discoverbangalore/sightseeing/ban-home.asp">Sightseeing</A> </LI>
+                        <LI><A href="Hotels-Bangalore/hotels-bangalore.asp">Hotels</A> </LI>
+                        <LI><A   href="/Winedine/winedine.asp">Eatouts & Pubs</A> </LI>
+                        <LI><A   href="information-technology-bio-technology-bpo-bangalore.asp">IT & BPO</A> </LI>
+                        <LI><A   href="realestate_bangalore.asp">Real Estate</A> </LI>
+                        <LI><A   href="/photofeature/index.asp">Photo Features</A> </LI>
+                        <LI><A   href="/360panorama/index.asp">Panorama 360&deg;</A> </LI>
+                        <li><A   href="/virtualcity/index.asp">Virtual City</A> </LI>
+                        <li><A   href="/discoverbangalore/learnkanada/index.asp">Learn Kannada</A> </LI>
+                        <li><A   href="/discoverbangalore/art_culture/index.asp">Art & Culture</A> </LI>
+                        <li><A   href="http://www.bangalorebest.com/discoverbangalore/citylifestyle/index.asp">City Lifestyle</A> </LI>
+                     <!--   <li><A   href="http://gifts.indias-best.com/" target="_blank">Shopping</A> </LI>-->
+                        <li><A   href="/cityresources/index.asp">Yellow Pages</A> </LI>
+                        <li><A   href="/Archives/Archives.asp">Archives</A></LI>
+                      </UL>
+                </DIV>
+                  </DIV>
+                </DIV>
+                 <img src="images/1stweek/VidhanSoudhaNew.jpg" name="SlideShow4" width="775" height="309" border="0" id="SlideShow4"></td>
+          </tr>
+          <tr>
+                    <td height="2" colspan="2" ></td>
+                  </tr>
+          <tr>
+            <td  valign="top"><table width="773"  border="0" cellpadding="0" cellspacing="0" bgcolor="#1C6198">
+              <!-- Mardquee Line Starts here ! -->
+              
+              <tr>
+                <td height="10" colspan="4" valign="top"><FONT SIZE="2" FACE="Trebuchet MS, Arial, Helvetica, sans-serif" COLOR="#CCCCCC"><MARQUEE WIDTH=100% BEHAVIOR="scroll" scrolldelay="120" BGColor="#18558C">Bangalore is the fastest growing city in the world, India’s Silicon Valley, Garden city, Education city, Air-conditioned city, Pub city and many more...</MARQUEE></FONT></td>
+              </tr>
+ <!--  Mardquee Line Ends here ! -->          <tr>
+                <td width="160"  valign="top" bgcolor="#18558C">
+                 
+                <table width="100%" border="0" align="center" cellpadding="2" cellspacing="0" bgcolor="#18558C">
+                            
+                             <tr align="center">
+                     <td title="Best Info Centre"><div class="BestInfoCentre"><a class="a" href="http://www.bangalorebest.com/infocenter/bestinfocenter.asp"><div class="BestInfoCentre2">Info Centre</div></a></div></td>
+                    </tr>
+                   
+                    <tr align="center">
+                     <td title="Best Builders"><div class="BestBuilders"><a class="a" href="http://www.bangalorebest.com/builders/bbuilders.asp"><div class="BestBuilders2">Best Builders</div></a></div></td>
+                    </tr>
+                   
+                   <tr align="center">
+                    <td title="Best Movies"><div class="BestMovies"><a class="a" href="http://www.bangalorebest.com/movies/bmovies.asp"><div class="BestMovies2">Best Movies</div></a></div></td>
+                    </tr>
+                   
+                        <tr align="center">
+                       <td title="City Happenings"><div class="CityHappenings"><a class="a" href="http://www.bangalorebest.com/Bestevent/bestevent.asp">
+                              <div class="CityHappenings2">City Happenings</div>
+                              </a></div>                       </td>
+                       </tr>
+                   
+                       <tr align="center">
+                       <td title="Bill Boards"><div class="BillBoards"><a class="a" href="http://www.bangalorebest.com/Best-Brands/index.asp" ><div class="BillBoards2">Bill Boards</div></a></div>                       </td>
+                    </tr>
+                        <tr align="center">
+                       <td title="Best Lifestyle"><div class="LifeStyle"><a class="a" href="discoverbangalore/citylifestyle/" ><div class="LifeStyle2">Lifestyle</div></a></div>                       </td>
+                     </tr>
+                       <tr align="center">
+                       <td title="Best Top 10 Restaurants"><div class="Top10Restaurants"><a class="a" href="Hotels-Bangalore/Top-10-Restaurants-Bangalore.asp" ><div class="Top10Restaurants2">Top<br> 10 Restaurants</div></a></div>                       </td>
+                     </tr>
+                      <tr align="center">
+                       <td title="Best Top 10 Pubs"><div class="newPubs"><a class="a" href="Best-Top-10-Pubs/Best-Top-10-Pubs-In-Bangalore.asp" ><div class="newPubs2">Top 10 Pubs</div></a></div>                       </td>
+                     </tr>
+                        <tr align="center">
+                       <td title="Best Top 10 Jewellers Bangalore"><div class="bestJewellery"><a class="a" href="Best-Top-10-Jewellers/Best-Top-10-Jewellers-In-Bangalore.asp" ><div class="bestJewellery2">Top 10 Jewellers</div></a></div>                       </td>
+                     </tr>
+                     
+                      <tr> 
+          <td align="center"> 
+            <div align="right"><a href="http://www.indias-best.com/advertisewithus/"><img src="/images/Advertise-With-Us_09-02-07.jpg" width="156" height="43" border="0"></a></div>
+          </td>
+        </tr>
+                    <tr align="center">
+                             <td title="Top 10 Hotels Bangalore" style="padding-bottom:03px;"><a href="Hotels-Bangalore/Top-10-Hotels-Bangalore.asp" style="text-decoration:none;" target="_blank"><img alt="Top 10 Hotels Bangalore" style="border:none;" src="images/BangaloreBesttop10Hotels.jpg"></a></td>
+                            </tr>   
+                             <tr align="center">
+                             <td title="Top 10 Hospitals Bangalore" style="padding-bottom:03px;"><a href="Hospitals-bangalore/Top-10-Hospitals-Bangalore.asp" style="text-decoration:none;" target="_blank"><img alt="Top 10 Hospitals Bangalore" style="border:none;" src="Hospitals-bangalore/Images-Hospitals/Besttop10Hospitals.jpg"></a></td>
+                            </tr>   
+                     
+                    <tr align="center"><td>
+                 
+                       
+                      <a class="a" href="http://www.bangalorebest.com/cityresources/index.asp" style="text-decoration:none;"> <img alt="Bangalore Best Yellow Pages" height="43" style="border:none;" src="images/Bangalore-Best-Yellow-Pages.gif"></a>
+                         <a class="a" href="WondersOfBangalore/Wonders_of_Bangalore.asp" style="text-decoration:none;"> <img alt="Wonders Of Bangalore" style="border:none;" src="WondersOfBangalore/imgaes/wondersofbangalore1.gif"></a>
+                      </td>
+                    </tr>
+                    <tr align="center"><td title="Bangalore Best Yellow Pages">
+                  
+                      </td>
+                    </tr>
+                  </table>                </td>
+                 <td width="1" align="center"><div align="center"></div></td>
+                <td width="449" valign="top" bgcolor="#FFFFFF"><table width="446"  border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+                  <!--Articles Start Here-->
+              
+               <tr>
+                    <td width="446" align="right" valign="top">
+                    
+                   
+                      <table width="100%" border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"  style="padding:05px 05px 0px 05px;">
+                    
+					
+					
+					<tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="Archives/KV-Kamath-Appointed-New-Chairman-of-Infosys-Shibulal-New-CEO.asp" target="_blank" class="Georgiabold"><strong>KV Kamath Appointed New Chairman of Infosys, Shibulal New CEO: </strong></a><span class="arial12Black">Kamath will be the first 'outsider' to head the company's board. The banker, already an independent director with Infosys, will be helped in this task by Kris Gopalakrishnan , the CEO, who has now been made new executive co-chairman...</span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="Archives/KV-Kamath-Appointed-New-Chairman-of-Infosys-Shibulal-New-CEO.asp"  target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr> 
+					
+					
+					<tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="Archives/MNCs-Gobble-up-Office-Spaces-in-Bangalore.asp" target="_blank" class="Georgiabold"><strong>MNCs Gobble up Office Spaces in Bangalore: </strong></a><span class="arial12Black">Multinational companies are on a fast-paced expansion drive in Bangalore, taking up prime real estate space in the city and ramping up headcount. Companies such as Robert Bosch Engineering India, Samsung, Ericsson, Honeywell and Volvo IT are expanding rapidly...</span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="Archives/MNCs-Gobble-up-Office-Spaces-in-Bangalore.asp"  target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr> 
+					
+					
+					<tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="Archives/TCS-Infosys-Wipro-HCL-Duel-MNCs-for-Bigger-US-Share.asp" target="_blank" class="Georgiabold"><strong>TCS, Infosys, Wipro, HCL Duel MNCs for Bigger US Share: </strong></a><span class="arial12Black">Bangalore's Infosys & Wipro , Mumbai'S TCS and Chennai’s HCL are looking to reach the $20-billion mark within the next few years, India's top technology firms are readying plans to gain a bigger share of their largest market...</span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="Archives/TCS-Infosys-Wipro-HCL-Duel-MNCs-for-Bigger-US-Share.asp"  target="_blank" class="link2">Full Stor y  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr> 
+					
+					
+					
+					<tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="Archives/Wipro-net-up-fourteen-pc-at-Rs-one,375-cr-Announces-200-Dividend.asp" target="_blank" class="Georgiabold"><strong>Wipro Q4 net up 14 pc at Rs 1,375 cr, Announces 200% Dividend : </strong></a><span class="arial12Black">The Bangalore based country's third largest software exporter Wipro today reported a growth of 13.77 per cent in consolidated net profit for the quarter ended March 31, 2011, to Rs 1,375.4 crore...</span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="Archives/Wipro-net-up-fourteen-pc-at-Rs-one,375-cr-Announces-200-Dividend.asp"  target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr> 
+					
+					
+					
+					<tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="Archives/Cinépolis-Opens-Multiplex-in-Bangalore.asp" target="_blank" class="Georgiabold"><strong>Cinépolis Opens Multiplex in Bangalore : </strong></a><span class="arial12Black">Ashish Shukla, head exhibition, Cinépolis, added, “With our cinema, we bring to Bangalore a world-class cinema viewing experience that includes the best-in-class audio-visual technology...</span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="Archives/Cinépolis-Opens-Multiplex-in-Bangalore.asp"  target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr> 
+					
+					
+					
+					<tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="Archives/Biocon-to-upgrade-Bangalore-Facility.asp" target="_blank" class="Georgiabold"><strong>Biocon to upgrade Bangalore Facility : </strong></a><span class="arial12Black">Biotechnology major Biocon has decided to upgrade its Bangalore facility into a dedicated drug discovery centre giving fillip to its research and development activities...</span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="Archives/Biocon-to-upgrade-Bangalore-Facility.asp"  target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr> 
+					
+					
+					<tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="Archives/Karnataka-to-Develop-11-Airstrips.asp" target="_blank" class="Georgiabold"><strong>Karnataka to Develop 11 Airstrips : </strong></a><span class="arial12Black">To boost the tourism sector in the state, the Karnataka government has decided to develop 11 airstrips. These airstrips will be developed at locations where there is no airport...</span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="Archives/Karnataka-to-Develop-11-Airstrips.asp"  target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr> 
+					
+					
+					
+					
+					
+					<tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="Archives/Organised-Retail-Jewellery-Sector-Growing-by-40-Percent.asp" target="_blank" class="Georgiabold"><strong>Organised Retail Jewellery Sector Growing by 40% : </strong></a><span class="arial12Black">The country's organised retail jewellery sector is growing by 30-40 per cent annually, thanks to the rising brand consciousness among the masses The Bangalore City boasts of more than 4,000 retail jewelers...</span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="Archives/Organised-Retail-Jewellery-Sector-Growing-by-40-Percent.asp"  target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr> 
+					
+					<tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="http://www.bangalorebest.com/Archives/IndianChipDesign-Industry-to-Reach-$10.2-Billion-in-2012.asp" target="_blank" class="Georgiabold"><strong>Indian Chip Design Industry to Reach $10.2 Billion in 2012 : </strong></a><span class="arial12Black">Bangalore City is a chip design hotspot.  The bangalore leading chip design companies here are Texas Instruments, Analog Devices, Phillips, Intel, National Semiconductor and Synopsys among others...</span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="http://www.bangalorebest.com/Archives/IndianChipDesign-Industry-to-Reach-$10.2-Billion-in-2012.asp"  target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr> 
+					
+					
+					<tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="http://www.bangalorebest.com/Archives/Bangalore-Metro-Team-is-all-set-to-Begin-the-Tunneling-Work.asp" target="_blank" class="Georgiabold"><strong>Bangalore Metro Team is all set to Begin the Tunneling Work : </strong></a><span class="arial12Black">Bangalore Metro team is all set to begin the tunnelling work for the underground stretches from May 10...</span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="http://www.bangalorebest.com/Archives/Bangalore-Metro-Team-is-all-set-to-Begin-the-Tunneling-Work.asp"  target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr> 
+					
+                         <tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="http://www.bangalorebest.com/Archives/Metro-will-Boost-Economy-of-City.asp" target="_blank" class="Georgiabold"><strong>Metro will Boost Economy of Bangalore City :</strong></a><span class="arial12Black">The Bangalore city will soon be among one of the few in the country to have its own metro connectivity...</span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="http://www.bangalorebest.com/Archives/Metro-will-Boost-Economy-of-City.asp"  target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr>  
+                        
+                     <tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="realestate-bangalore/articles/Global-Investors-find-Bangalore-City-a-Potential-Base.asp" target="_blank" class="Georgiabold"><strong>Global Investors find Bangalore City a Potential Base:</strong></a><span class="arial12Black">Bangalore remains a favourite destination for investors thanks to the infrastructure being put in place and the skilled manpower available here... </span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="realestate-bangalore/articles/Global-Investors-find-Bangalore-City-a-Potential-Base.asp" target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr>   
+                    
+                    
+                    <tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="Archives/84.74-Lakh-and-Counting-in-Bangalore.asp" target="_blank" class="Georgiabold"><strong>84.74 Lakh and Counting in Bangalore: </strong></a><span class="arial12Black">The Bangalore city has truly become bruhath Bengaluru, Population growth include influx due to education, health and employment sectors and the floating population for business reasons... </span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="Archives/84.74-Lakh-and-Counting-in-Bangalore.asp" target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr>  
+					 
+                    
+                     <tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="Archives/Managing-Traffic-through-Technology.asp" target="_blank" class="Georgiabold"><strong>Managing Traffic through Technology: </strong></a><span class="arial12Black">Using simple IT solutions aid in reducing traffic violations and decongesting arterial roads... </span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="Archives/Managing-Traffic-through-Technology.asp" target="_blank" class="link2">Full Story  <img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr>  
+                        
+                          
+                    
+                       
+                      
+                            
+                      
+                        
+                           
+                          
+                           
+                           
+                          
+          
+                
+                           
+               
+                   
+             
+              
+                    
+                   
+                    <tr>
+                         
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr>
+                        
+                            
+                   
+                        
+                        
+                    
+                   
+                    
+                    
+                     
+                        
+                         
+                    
+                    
+                      <tr>
+                          <td valign="top" class="articlesTxt" ><p align="justify"><a href="Archives/BangaloreJewellery_capital_India.asp" target="_blank" class="Georgiabold"><strong>Bangalore is Now Jewellery Capital of India : </strong></a><span class="arial12Black">The City boasts of more than 4,000 retail jewelers and has the largest number of national as well as regional brands in the market... </span>
+              
+       </p> </td>
+                          </tr>
+                                                                                              <tr>
+                          <td height="13" valign="top" class="fullstory"> <a href="Archives/BangaloreJewellery_capital_India.asp" target="_blank" class="link2">Full Story </a> <a href="http://www.bangalorebest.com/Archives/BangaloreJewellery_capital_India.asp" target="_blank"><img src="images/full_story.gif" width="11" height="10" border="0" /></a></td>
+                        </tr>  
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr>
+                        
+                       
+                    
+              
+                 
+                 
+                   
+                        
+                        
+                    
+                    
+                  
+                     
+                    
+                     <td height="1" align="left" valign="top" background="images/grey_line.gif"></td>
+                        </tr>
+                     
+                       
+                       
+                  <!--Articles Ends Here-->
+                    </table></td>
+                  </tr>
+                </table>
+                  <table width="283" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td width="403"><div align="center"><a class="a" href="http://www.bangalorebest.com/cityresources/index.asp" style="text-decoration:none;"><img border="0" alt="Bangalore Yellow Pages" title="Bangalore Yellow Pages" src="images/yellow.jpg" width="281" height="29" /></a></div></td>
+                      </tr>
+                  </table></td>
+                <td width="162" valign="top" bgcolor="#18558C"><table width="162" align="right" cellpadding="0" cellspacing="0">
+                    <tr >
+                      <td width="161"  valign="top" bgcolor="#18558C" ><a href="/Archives/Archives.asp" target="_blank"></a>
+                          <table width="100%" border="0" align="center" cellpadding="2" cellspacing="0" bgcolor="#18558C">
+                            <tr align="center">
+                                <td title="Siliconvalley Bangalore" style="padding-bottom:03px; padding-top:02px;"><a href="http://www.bangalorebest.com/eposters/siliconvalley/poster.asp" style="text-decoration:none;" target="_blank"><img alt="Siliconvalley Bangalore" style="border:none;" src="images/Booking-SVP.gif"></a></td>                        </tr>
+                              
+                           <tr align="center">
+                             <td title="Bangalore Best Corporate Jobs" style="padding-bottom:03px;"><a href="http://www.bangalorebest.com/bestjobs/index.asp" style="text-decoration:none;" target="_blank">
+<img alt="Bangalore Best Corporate Jobs" style="border:none;" src="images/Best-Corporate-Jobs.gif"></a></td>
+                           </tr>
+                           
+                   <!-- <tr align="center">
+                                <td title="Online Gifts Bangalore" style="padding-bottom:03px;"><a href="http://gifts.indias-best.com/" style="text-decoration:none;" target="_blank"><img alt="Online Gifts Bangalore" style="border:none;" src="images/Shopping-Gifts-2.jpg"></a></td>  
+                            </tr>-->
+                                                      
+                           <tr align="center">
+                             <td title="Returned Non-Resident Indian Association (RNRI)" style="padding-bottom:03px;"><a href="http://www.rnri.org/" style="text-decoration:none;" target="_blank"><img alt="Returned Non-Resident Indian Association (RNRI)" style="border:none;" src="images/RNRI-Banner.gif"></a></td>
+                            </tr>
+                           
+                           <!-- <tr align="center">
+                             <td title="Bangalore Auto Shop" style="padding-bottom:03px;"><a href="http://www.bangalorebest.com/auto.asp"  style="text-decoration:none;"> <img alt="Bangalore Auto Shop" style="border:none;" src="images/AutoShoppy-1.jpg"></a>                            </td>
+                            </tr>-->
+                            
+                             <tr align="center">
+                            <td title="Mysore Palace 360 Flash English Version - 360 Higher Quality 360 Panorama"> <a class="a" href="http://www.bangalorebest.com/MysorePalace360Panorama.asp"><div style="border:thick; border-color:#930;"><img src="images/mysorepalace.jpg" border="0"> 
+                              <div class="Extra2" style="border-width: 2px; border-style:outset; border-color:#18558C;">Mysore Palace<br> 360 Panorama</div>
+                             </div></a>                       </td>
+                            </tr>
+                            <tr align="center">
+                            <td title="Bangalore Online Digital Directory">
+                             <a class="a" href="http://www.bangalorebest.com/Flipping-Book/index.asp" style="text-decoration:none;"><img title="Bangalore Online Digital Directory" alt="Bangalore Online Digital Directory" style="border:none;" src="images/Bangalore-Online-Digital-Directory.jpg">                       </a>
+                              </td></tr>
+                               <tr align="center"><td>
+                 
+                       
+                      <a class="a" href="Shopping-Destinations-bangalore/Top-10-Shopping-Destinations-Bangalore.asp" style="text-decoration:none;"> <img alt="Bangalore Best Top 10 Shopping Destinations "  style="border:none;" src="images/BangaloreBestShoppingDestin.jpg"></a>
+                       
+                      </td>
+                    </tr>
+                      <tr align="center"><td>
+                  <a class="a" href="IPL-2011/ipl_indian_premier_leauge.asp" style="text-decoration:none;"> <img alt="IPL Indian Premier Leauge "  style="border:none;" src="IPL-2011/Images/RC-IPL-4-2011-Squad.jpg"> <div class="Extra2" style="border-width: 2px; border-style:outset; border-color:#18558C;">DLF IPL Season 4</div></a>
+                       
+                      </td>
+                    </tr>
+                        </table></td>
+                    </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><iframe src="http://www.bangalorebest.com/Bangaloreyellowpages.html" width="773" height="128" marginwidth="0" marginheight="0" frameborder="0" scrolling="No" style="background-color:#18558C;"></iframe></td>
+          </tr>
+          <tr>
+            <td><link href="/home.css" rel="stylesheet" type="text/css">
+<link href="/index.css" rel="stylesheet" type="text/css">
+<script language="javascript">
+fullurl=window.parent.document.location;
+function opp1(){
+window.open('http://www.indias-best.com/feedback/tellfriend.asp?fullurl='+fullurl,'',
+'width=380,height=360')
+
+}
+</script> 
+<table style="height:auto;" border="0" cellpadding="0" cellspacing="0">
+  <!--DWLayoutTable-->
+  <tr> 
+    <td style="height:auto;" >
+<div id="footer" style="height:auto;  width:773px;">
+
+   <table  border="0">  
+   
+           <tr>
+           
+    <td class="link_list_table"><a href="http://www.bangalorebest.com"><strong>Home</strong></a><br /> 
+                <br /> 
+                <a href="http://www.bangalorebest.com/aboutus/aboutus1.asp"><strong>About Us</strong></a> <br />
+                  <a href="http://www.indias-best.com/advertisewithus" target="_blank"><strong>Advertise With Us</strong></a> <br /> 
+                <a href="http://www.bangalorebest.com/what_people_say/index.asp"><strong>What People Say</strong></a> <br /> 
+                 <a href="/careers/careers.html"><strong>Careers</strong></a> 
+               <br /> 
+                <a href="http://www.google.co.in/#hl=en&biw=1024&bih=634&q=site%3Abangalorebest.com+www.bangalorebest.com&aq=&aqi=&aql=&oq=&gs_rfai=&fp=8b16cfd71078b390" target="_blank"><strong>Site Map</strong></a> 
+              </td> 	
+   
+<td class="link_list_table"><strong title="South India Best Portals">South Best Portals</strong> <br /> 
+                <br /> 
+                 <a href="http://www.HyderabadBest.com" target="_blank">HyderabadBest.com</a> <br /> 
+                <a href="http://www.ChennaiBest.com" target="_blank">ChennaiBest.com</a> <br /> 
+                <a href="http://www.CochinBest.com/" target="_blank">CochinBest.com</a> <br />
+                <a href="http://www.CoimbatoreBest.com" target="_blank">CoimbatoreBest.com</a><br /> 
+                    <a href="http://www.GoaBest.com/" target="_blank">GoaBest.com</a> 
+             </td> 
+                 
+<td class="link_list_table"><strong title="North India Best Portals">Other Best Portals</strong><br /> 
+                <br /> 
+                <a href="http://www.NewDelhiBest.com/" target="_blank">NewDelhiBest.com</a> <br />
+                <a href="http://www.MumbaiBest.com" target="_blank">MumbaiBest.com</a> <br /> 
+                 <a href="http://www.JaipurBest.com/" target="_blank">JaipurBest.com</a> 
+                <br /> 
+                  <a href="http://www.KolkataBest.com/" target="_blank">KolkataBest.com</a> <br />
+                  <a href="http://www.PoonaBest.com/" target="_blank">PoonaBest.com</a> <br />
+            </td> 
+   
+    <td class="link_list_table"><strong>Usefull Links</strong><br /> 
+    <br /> 
+                <a href="http://blogs.bangalorebest.com/" target="_blank">BangaloreBest.com Blogs</a>  <br /><a href="http://gifts.indias-best.com/" target="_blank">Online Shopping</a>  <br /> <br />
+            
+                             
+    </td> 
+
+  
+     <td>
+ <a href="http://www.indias-best.com" title="Indias-Best.Com Pvt. Ltd." target="_blank">     <img style="border:none;" align="right" src="/img/Indias-Best-Logo.png" /></a>
+      
+    </td> 
+    </tr>
+  </table>
+  
+  <table align="center">
+  	<tr>
+ 		 <td>
+  
+ <div>
+ 
+<strong style="color:#FFF; font-family:Verdana, Geneva, sans-serif; font-size:12px;">Follow Us On :</strong>
+ 
+				<a href="" target="_blank"><img style="border:none;" src="/img/Twitter.png" /></a>
+                <a href="" target="_blank"><img style="border:none;" src="/img/FaceBook.png" /></a>
+                <a href="" target="_blank"><img style="border:none;" src="/img/Linkedin.png" /></a>
+                <a href="" target="_blank"><img style="border:none;" src="/img/youtube.png" /></a>
+                <a href="" target="_blank"><img style="border:none;" src="/img/myspace.png" /></a>
+ </div>
+
+ 	</td>
+ 		</tr>
+			 </table>
+  
+  
+  <table align="center">
+  	<tr>
+ 		 <td>
+  
+ <div class="copyright" style="background-image:url(images/Footer.jpg); background-position:bottom;  background-repeat:repeat-x;  width:760px; padding-top:10px;"><div style="padding-bottom:10px;">Copyright &copy; 2001-2010 BangaloreBest.com | All Rights Reserved. Designed and Powered by <a href="http://www.indias-best.com" title="Indias-Best.Com Pvt. Ltd." target="_blank" style="text-decoration:none;">Indias-Best.Com Pvt. Ltd.</a></div>
+ </div>
+ 	</td>
+ 		</tr>
+			 </table>
+
+    </div>
+</td></tr></table>
+<table style="padding-top:05px;" align="center" border="0" cellpadding="0" cellspacing="0" width="780" height="62">
+  <tr> 
+    <td height="23" align="center"  valign="top"> 
+      <script type="text/javascript"><!--
+google_ad_client = "pub-7564351372066229";
+/* 728x90, created 9/17/09 */
+google_ad_slot = "4069443390";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	     </td>
+  </tr>
+  </table>
+  
+  <script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2465182-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2465182-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+      <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+
+  <div style="text-align:center"><a href="http://www.bangalorebest.com"><img border="0" src="http://www.webcounter.com/4aa1063b82f02/counter.png"/></a></div>
+</td>
+          </tr>
+        </table></td>
+       <td width="200" valign="top" style="padding-left:02px;">
+       <img src="images/Bangalore-Interactive-Map.jpg" border="0">
+    <iframe src="http://www.indias-best.com/maps2/index-m.php" width="238" height="438" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" style="border: #000000 1px solid;"></iframe><br>
+  
+   <div style="margin-left:30px;"><a href="http://www.indias-best.com/maps/index.php" target="_blank"> <img src="newBest/images/View-Map.jpg" border="0"></a> <a href="http://www.bangalorebest.com/maps" target="_blank"><img src="newBest/images/Map-guide.jpg" border="0"></a></div>
+   <br>
+  
+    <!-- Videos On BangaloreBest  Starts here. -->
+   
+  <div align="center" style=" background-color:#d1d8de; padding-right:0px; border-width: 2px; border-style:outset; border-color:#000;">
+   
+   <script type="text/javascript">
+
+function onYouTubePlayerReady(playerId) { 
+ytplayer = document.getElementById("video_overlay"); 
+ytplayer.setVolume(100); 
+} 
+
+</script> 
+<div align="center"  id="videogallery">
+<div style=" background-color:#666;font-size:16px; font-family:Verdana, Geneva, sans-serif; color:#FFC;padding-bottom:05px;">Videos on Bengaluru</div>
+	<a rel="#voverlay" href="http://www.youtube.com/v/L6X5QFd3PsE?autoplay=1&rel=0&enablejsapi=1&playerapiid=ytplayer" title="Bangalore Metro Test Drive"><img src="data/thumbnails/0.jpg" alt="Bangalore Metro Test Drive" />Bangalore Metro Test Drive<span></span></a>
+<a rel="#voverlay" href="http://www.youtube.com/v/f99DgJeaf7M?autoplay=1&rel=0&enablejsapi=1&playerapiid=ytplayer" title="Bengaluru International Airport - T1 Expansion: Walkthrough"><img src="data/thumbnails/1.jpg" alt="Bengaluru International Airport - T1 Expansion: Walkthrough" />Bengaluru International Airport<span></span></a>
+<a rel="#voverlay" href="http://www.youtube.com/v/A8qlKu3bRls?autoplay=1&rel=0&enablejsapi=1&playerapiid=ytplayer" title="Groundnut Fair in Bangalore"><img src="data/thumbnails/2.jpg" alt="Groundnut Fair in Bangalore" />Groundnut Fair in Bangalore<span></span></a>
+<a rel="#voverlay" href="http://www.youtube.com/v/4uAGZ_ixh1g?autoplay=1&rel=0&enablejsapi=1&playerapiid=ytplayer" title="Bangalore - A multi-faceted city"><img src="data/thumbnails/3.jpg" alt="Bangalore - A multi-faceted city" />Bangalore - A multi-faceted city<span></span></a>
+<a rel="#voverlay" href="http://www.youtube.com/v/M13TvIqNqKA?autoplay=1&rel=0&enablejsapi=1&playerapiid=ytplayer" title="Mantri Square: India's Largest Mall"><img src="data/thumbnails/4.jpg" alt="Mantri Square: India's Largest Mall" />Mantri Square: India's Largest Mall<span></span></a>
+<a rel="#voverlay" href="http://www.youtube.com/v/_-M-SnDPGYI?autoplay=1&rel=0&enablejsapi=1&playerapiid=ytplayer" title="ITPL Bangalore"><img src="data/thumbnails/5.jpg" alt="ITPL Bangalore" />ITPL Bangalore<span></span></a>
+<a rel="#voverlay" href="http://www.youtube.com/v/osFCN4iU-hI?autoplay=1&rel=0&enablejsapi=1&playerapiid=ytplayer" title="infosys bangalore campus"><img src="data/thumbnails/6.jpg" alt="infosys bangalore campus" />Infosys bangalore campus<span></span></a>
+<a rel="#voverlay" href="http://www.youtube.com/v/-BQFw-m1gHo?autoplay=1&rel=0&enablejsapi=1&playerapiid=ytplayer" title="BANGALORE MALLS"><img src="data/thumbnails/7.jpg" alt="BANGALORE MALLS" />BANGALORE MALLS<span></span></a><br>
+
+<span class="MoreVideo"><a style="font-size:16px; width:230px; color:#FFC"  href="videos-on-bangalore/videosOnBangalore.asp" title="More Videos Click Here !" target="_blank">More Videos Click Here !</a></span>
+
+</div>
+  </div>
+  
+   <br />
+   <!-- Videos On BangaloreBest Ends here -->
+   
+   <!-- Hotels Search  Starts here. -->
+   
+   <div style="padding-left:02px; padding-right:02px;">
+                           
+<link href="Hotels_com_files/hcom-legacy-RELEASE.15.4.29153.css" type="text/css" rel="stylesheet" />
+<!--[if lt IE 7]>
+<link href="/Hotels_com_files/hcom-legacy-ie6-RELEASE.15.4.29153.css" type="text/css" rel="stylesheet" />
+
+<![endif]-->
+<!--[if lt IE 8]>
+<link href="/Hotels_com_files/hcom-legacy-ie6-RELEASE.15.4.29153.css" type="text/css" rel="stylesheet" />
+
+<![endif]-->
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+(function(){var D=document,B=".js_inline_visible{display:inline;}.js_inline_hidden{display:none;}.js_visible{display:block;}.js_hidden{display:none;}.tab_inactive{display:none;}.custom_dropdown:hover .dropdown_menu{display:none;}.header_row_3 .currency:hover{background-color:transparent;}.header_row_3 .currency:hover .copy,.header_row_3 .currency:hover .active_currency_symbol{color:#e6690e;}.header_row_3 .currency:hover .sprite_icon_dropdown{background-position:-450px -200px;}.header_row_3 .currencyActive,.header_row_3 .currencyActive:hover{background-color:#404040;}.header_row_3 .currencyActive .copy,.header_row_3 .currencyActive .active_currency_symbol,.header_row_3 .currencyActive:hover .copy,.header_row_3 .currencyActive:hover .active_currency_symbol{color:#fff;}.header_row_3 .currencyActive .sprite_icon_dropdown,.header_row_3 .currencyActive:hover .sprite_icon_dropdown{background-position:-450px -150px;}.header_row_3 .currencyActive .dropdown_menu{display:block;}.header_row_3 .language:hover{background-color:transparent;}.header_row_3 .language:hover .copy{color:#e6690e;}.header_row_3 .language:hover .sprite_icon_dropdown{background-position:-450px -200px;}.header_row_3 .languageActive,.header_row_3 .languageActive:hover{background-color:#404040;}.header_row_3 .languageActive .copy,.header_row_3 .languageActive:hover .copy{color:#fff;}.header_row_3 .languageActive .sprite_icon_dropdown,.header_row_3 .languageActive:hover .sprite_icon_dropdown{background-position:-450px -150px;}.header_row_3 .languageActive .dropdown_menu{display:block;}",C=D.createElement("style"),A;C.type="text/css";C.media="all";D.documentElement.firstChild.appendChild(C);A=C.styleSheet;return A?A.cssText=B:C.appendChild(D.createTextNode(B))})();
+//--><!]]></script>
+<table width="10%" border="0" cellpadding="0" class="width230" bgcolor="#FCD685" cellspacing="0">
+  <tr>
+    <td><font size="4"><b><img src="/Hotels_com_files/Find-Hotels-2.jpg" border="0" width="238" height="21"/></b></font></td>
+  </tr>
+  <tr>
+    <td><form name="searchForm" id="searchForm" method="get" action="http://travel.ian.com/index.jsp?cid=270825">
+
+    
+        
+   
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FDEABF">
+          <tr>
+            <td width="76%"> 
+              <div align="left">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://travel.ian.com/index.jsp?cid=270825"><b><font color="#FF0000">More 
+                search options</font></b></a></div>
+            </td>
+            <td width="24%">
+              <div class="Hbut_1 pad0"> <em><button id="btnHomeSubmit" type="submit">Go</button>
+              </em> 
+              </div>
+            </td>
+          </tr>
+        </table>
+        <script language="javascript">
+<!--
+    // NOTE: customize variables in this javascript block as appropriate.
+    var defaultAdults="1";
+    var cellStyle=" class='index-text'";
+    var childHelp="Please provide the ages of children in each room. Children's ages should be their age at the time of travel.";
+    var adultHelp="";
+    var textRooms="Rooms:";
+    var textAdults="Adults";
+    var textChildren="Children";
+    var textChildError="Please specify the ages of all children.";
+    var pad='<img src="http://travel.ian.com/images/p.gif" width="5" height="1">';
+    // NOTE: Question marks ("?") get replaced with a numeric value
+    var textRoomX="R ?:";
+    var textChildX="Ch ?:";
+
+//-->
+</script>
+    <!-- NOTE: DO NOT MODIFY THIS JAVASCRIPT BLOCK -->
+    <script language="javascript">
+<!--
+    var adultsPerRoom=new Array(defaultAdults);
+    var childrenPerRoom=new Array();
+    var childAgesPerRoom=new Array();
+    var numRooms=1;
+    var maxChildren=0;
+
+    refresh();
+
+    function setChildAge(room, child, age) {
+        if (childAgesPerRoom[room] == null) {
+            childAgesPerRoom[room] = new Array();
+        }
+        childAgesPerRoom[room][child] = age;
+    }
+
+    function setNumAdults(room, numAdults) {
+        adultsPerRoom[room] = numAdults;
+    }
+
+    function setNumChildren(room, numChildren) {
+        childrenPerRoom[room] = numChildren;
+        refresh();
+    }
+
+    function setNumRooms(x) {
+        numRooms = x;
+        for (i = 0; i < x; i++) {
+            if (adultsPerRoom[i] == null) {
+                adultsPerRoom[i] = 2;
+            }
+            if (childrenPerRoom[i] == null) {
+                childrenPerRoom[i] = 0;
+            }
+        }
+        refresh();
+    }
+
+    function renderRoomSelect() {
+        var x = '';
+        x += '<select name="numberOfRooms" onchange="setNumRooms(this.options[this.selectedIndex].value);">';
+        for (var i = 1; i < 9; i++) {
+            x += '<option value="'+i+'"'+(numRooms == i ? ' selected' : '')+'>' + i;
+        }
+        x += '<option value="9"'+(numRooms == 9 ? ' selected' : '')+'>9+';
+        x += '</select>';
+        return x;
+    }
+
+    function refresh() {
+        maxChildren = 0;
+        for (var i = 0; i < numRooms; i++) {
+            if (childrenPerRoom[i] > maxChildren) {
+                maxChildren = childrenPerRoom[i];
+            }
+        }
+
+        var x = '';
+        if (adultHelp.length > 0) {
+            x = adultHelp + "<p>\n";
+        }
+
+        if (numRooms > 8) {
+            x += textRooms;
+            x += renderRoomSelect();
+
+        } else {
+            x += '<table border="0" cellspacing="2" cellpadding="0">\n';
+            x += '<tr><td'+cellStyle+'>'+textRooms+pad+'</td>';
+            if (numRooms > 1) {
+                x += '<td'+cellStyle+'>&nbsp;</td>';
+            }
+            x += '<td'+cellStyle+'><nobr>'+textAdults+pad+'</nobr></td><td'+cellStyle+'><nobr>'+textChildren+pad+'</nobr></td></tr>\n';
+            for (var i = 0; i < numRooms; i++) {
+                x += '<tr><td'+cellStyle+'>';
+                if (i == 0) {
+                    x += renderRoomSelect();
+                } else {
+                    x += '&nbsp;';
+                }
+                x += '</td>';
+                if (numRooms > 1) {
+                    x += '<td'+cellStyle+'><nobr>'+getValue(textRoomX, i+1)+pad + '</nobr></td>';
+                }
+                x += '<td'+cellStyle+'>';
+                x += buildSelect('room-' + i + '-adult-total', 'setNumAdults(' + i + ', this.options[this.selectedIndex].value)', 2, 4, adultsPerRoom[i]);
+                x += '</td><td'+cellStyle+'>';
+                x += buildSelect('room-' + i + '-child-total', 'setNumChildren(' + i + ', this.options[this.selectedIndex].value)', 0, 6, childrenPerRoom[i]);
+                x += '</td></tr>\n';
+            }
+            x += '</table>\n';
+
+            var didHeader = false;
+            for (var i = 0; i < numRooms; i++) {
+                if (childrenPerRoom[i] > 0) {
+                    if (!didHeader) {
+                        x += '<table border="0" cellpadding="0" cellspacing="2">\n';
+                        x += '<tr><td'+cellStyle+' colspan="'+(maxChildren+1)+'">';
+                        x += '<img src="/images/p.gif" width="1" height="5"><br>';
+                        x += childHelp;
+                        x += '<img src="/images/p.gif" width="1" height="5"><br>';
+                        x += '</td></tr>\n<tr><td'+cellStyle+'>&nbsp;</td>';
+                        for (var j = 0; j < maxChildren; j++) {
+                            x += '<td'+cellStyle+'><nobr>'+getValue(textChildX, j+1)+pad+'</nobr></td>\n';
+                        }
+                        didHeader = true;
+                    }
+                    x += '</tr>\n<tr><td'+cellStyle+'><nobr>'+getValue(textRoomX, i+1)+pad+'</nobr></td>';
+                    for (var j = 0; j < childrenPerRoom[i]; j++) {
+                        x += '<td'+cellStyle+'>';
+                        var def = -1;
+                        if (childAgesPerRoom[i] != null) {
+                            if (childAgesPerRoom[i][j] != null) {
+                                def = childAgesPerRoom[i][j];
+                            }
+                        }
+                        x += '<select name="room-'+i+'-child-'+j+'-age" onchange="setChildAge('+i+', '+j+', this.options[this.selectedIndex].value);">';
+                        x += '<option value="-1"'+(def == -1 ? ' selected' : '')+'>-?-';
+                        x += '<option value="0"'+(def == 0 ? ' selected' : '')+'>&lt;1';
+                        for (var k = 1; k <= 18; k++) {
+                            x += '<option value="'+k+'"'+(def == k ? ' selected' : '')+'>'+k;
+                        }
+                        x += '</td>';
+                    }
+                    if (childrenPerRoom[i] < maxChildren) {
+                        for (var j = childrenPerRoom[i]; j < maxChildren; j++) {
+                            x += '<td'+cellStyle+'>&nbsp;</td>';
+                        }
+                    }
+                    x += '</tr>\n';
+                }
+            }
+            if (didHeader) {
+                x += '</table>\n';
+            }
+        }
+
+        document.getElementById("hot-search-params").innerHTML = x;
+    }
+
+    function buildSelect(name, onchange, min, max, selected) {
+        var x = '<select name="' + name + '"';
+        if (onchange != null) {
+            x += ' onchange="' + onchange + '"';
+        }
+        x +='>\n';
+        for (var i = min; i <= max; i++) {
+            x += '<option value="' + i + '"';
+            if (i == selected) {
+                x += ' selected';
+            }
+
+            x += '>' + i + '\n';
+        }
+        x += '</select>';
+        return x;
+    }
+
+    function validateGuests(form) {
+        if (numRooms < 9) {
+            var missingAge = false;
+            for (var i = 0; i < numRooms; i++) {
+                var numChildren = childrenPerRoom[i];
+                if (numChildren != null && numChildren > 0) {
+                    for (var j = 0; j < numChildren; j++) {
+                        if (childAgesPerRoom[i] == null || childAgesPerRoom[i][j] == null || childAgesPerRoom[i][j] == -1) {
+                            missingAge = true;
+                        }
+                    }
+                }
+            }
+
+            if (missingAge) {
+                alert(textChildError);
+                return false;
+            } else {
+                return true;
+            }
+        } else {
+            return true;
+        }
+    }
+
+    function submitGuestInfoForm(form) {
+        if (!validateGuests(form)) {
+            return false;
+
+        }
+        return true;
+    }
+
+    function getValue(str, val) {
+        return str.replace(/\?/g, val);
+    }
+//-->
+</script>
+      </form></td>
+  </tr>
+</table>
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+window.hcom={configuration:{DEFAULT_DATE_FORMAT:"dd/MM/yyyy"},locale:{url:"www.bangalorebest.com",secureUrl:"www.bangalorebest.com",rules:{OMNITURE_S_ACCOUNT:"hotelsindia, hotelsallprod"},firstDayOfWeek:1,dateFormatSymbols:{months:["January","February","March","April","May","June","July","August","September","October","November","December"],shortMonths:["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],shortWeekdays:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},language:"en_IN",autosuggest:{asURL:"http://www.hotels.co.in/suggest",isAsaActive:true,isHotelSearchActive:true,activationCharLength:3,i18nMessages:{categories:{cities:"Cities/Areas",landmarks:"Landmarks",airports:"Airports"},error:"Please type the name of a city or hotel",noSuggestionMatch:"No suggestions match",close:"close",moreSuggestion:"...and more, keep typing to refine search",noSuggestion:"no suggestions"}}}};
+//--><!]]></script>
+  <!--<script type="text/javascript" src="/Hotels_com_files/hcom-RELEASE.15.4.29153.js"></script>-->
+  <script type="text/javascript" defer="defer"><!--//--><![CDATA[//><!--
+$.loadModule("hcom.homepage.pages.home");
+//--><!]]></script>
+
+
+</div>
+   
+   <!-- Ends Hotels Search here -->
+    </td>
+      </tr>
+      <tr>
+        <td valign="top"></td>
+      </tr>
+    </table>
+</body>
+</html>

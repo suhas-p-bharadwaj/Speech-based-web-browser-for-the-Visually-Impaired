@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Abraham Lincoln - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.17wmf1" />
+<link rel="apple-touch-icon" href="http://en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%7Cmediawiki.legacy.shared%7Cskins.vector&amp;only=styles&amp;skin=vector" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" /><link rel="stylesheet" href="http://bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" type="text/css" media="all" />
+<style type="text/css" media="all">a.new,#quickbar a.new{color:#ba0000}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:5:f2a9127573a22335c2a9102b208c73e7 */</style>
+
+<script type="text/javascript">wgNamespaceNumber=0;wgAction="view";wgPageName="Abraham_Lincoln";wgMainPageTitle="Main Page";wgWikimediaMobileUrl="http:\/\/en.m.wikipedia.org\/wiki";</script><script src="http://bits.wikimedia.org/w/extensions-1.17/WikimediaMobile/MobileRedirect.js?8.2" type="text/javascript"></script><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.17/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr ns-0 ns-subject page-Abraham_Lincoln skin-vector">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+
+			<div id="siteNotice"><!-- centralNotice loads here --><script type="text/javascript">
+/* <![CDATA[ */
+document.writeln("\x3cdiv id=\"localNotice\"\x3e\x3cp\x3e\x3c/p\x3e\n\x3c/div\x3e");
+/* ]]> */
+</script></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading">Abraham Lincoln</h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+				<!-- tagline -->
+
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+				<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+
+				</div>
+				<!-- /jumpto -->
+								<!-- bodytext -->
+				<div class="dablink">"Abe Lincoln" redirects here. For the musician, see <a href="/wiki/Abe_Lincoln_(musician)">Abe Lincoln (musician)</a>.</div>
+<div class="dablink">For other uses, see <a href="/wiki/Abraham_Lincoln_(disambiguation)">Abraham Lincoln (disambiguation)</a>.</div>
+<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" width="20" height="20" /></a></div>
+<table class="infobox vcard" style="width: 22em; font-size: 90%; text-align: left">
+
+<tr>
+<td colspan="2" class="n" style="text-align: center; font-size: 125%; font-weight: bold"><span class="fn">Abraham Lincoln</span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Abraham_Lincoln_head_on_shoulders_photo_portrait.jpg" class="image" title="Abraham Lincoln"><img alt="Iconic black and white photograph of Lincoln showing his head and shoulders." src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Abraham_Lincoln_head_on_shoulders_photo_portrait.jpg/245px-Abraham_Lincoln_head_on_shoulders_photo_portrait.jpg" width="245" height="322" /></a><br /></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center; font-size:110%;">
+<hr />
+<div style="background:lavender;"><a href="/wiki/List_of_Presidents_of_the_United_States" title="List of Presidents of the United States">16th</a> <a href="/wiki/President_of_the_United_States">President of the United States</a></div>
+</th>
+</tr>
+<tr>
+
+<td colspan="2" style="border-bottom:none; text-align:center;"><b>In&#160;office</b><br />
+March 4, 1861&#160;?#160;April 15, 1865</td>
+</tr>
+<tr>
+<th>Vice&#160;President</th>
+<td><a href="/wiki/Hannibal_Hamlin">Hannibal Hamlin</a> <small>(1861?865)</small><br />
+<a href="/wiki/Andrew_Johnson">Andrew Johnson</a> <small>(1865)</small></td>
+
+</tr>
+<tr>
+<th>Preceded&#160;by</th>
+<td><a href="/wiki/James_Buchanan">James Buchanan</a></td>
+</tr>
+<tr>
+<th>Succeeded&#160;by</th>
+<td><a href="/wiki/Andrew_Johnson">Andrew Johnson</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center; font-size:110%;">
+
+<hr />
+<div style="background:lavender; font-weight:bold;">Member of the <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">U.S.&#160;House&#160;of&#160;Representatives</a><br />
+from <a href="/wiki/Illinois">Illinois</a>'s <a href="/wiki/Illinois%27_7th_congressional_district" title="Illinois' 7th congressional district" class="mw-redirect">7th</a> district</div>
+</td>
+</tr>
+<tr>
+
+<td colspan="2" style="border-bottom:none; text-align:center;"><b>In&#160;office</b><br />
+March 4, 1847&#160;?#160;March 3, 1849</td>
+</tr>
+<tr>
+<th>Preceded&#160;by</th>
+<td><a href="/wiki/John_Henry_(representative)" title="John Henry (representative)">John Henry</a></td>
+</tr>
+<tr>
+<th>Succeeded&#160;by</th>
+
+<td><a href="/wiki/Thomas_L._Harris">Thomas L. Harris</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<hr /></td>
+</tr>
+<tr>
+<th>Born</th>
+<td>February 12, 1809<span style="display:none">(<span class="bday">1809-02-12</span>)</span><br />
+<a href="/wiki/Hardin_County,_Kentucky" title="Hardin County, Kentucky">Hardin County</a>, <a href="/wiki/Kentucky">Kentucky</a></td>
+
+</tr>
+<tr>
+<th>Died</th>
+<td>April 15, 1865<span style="display:none">(<span class="dday">1865-04-15</span>)</span> (aged&#160;56)<br />
+<a href="/wiki/Washington,_D.C.">Washington, D.C.</a></td>
+</tr>
+<tr>
+<th>Resting&#160;place</th>
+
+<td class="label"><a href="/wiki/Oak_Ridge_Cemetery">Oak Ridge Cemetery</a><br />
+<a href="/wiki/Springfield,_Illinois" title="Springfield, Illinois">Springfield</a>, <a href="/wiki/Illinois">Illinois</a><br />
+<span class="plainlinks nourlexpansion"><a href="http://toolserver.org/~geohack/geohack.php?pagename=Abraham_Lincoln&amp;params=39_49_24_N_89_39_21_W_type:landmark" class="external text" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">39?9'24?N</span> <span class="longitude">89?9'21?W</span></span></span><span class="geo-multi-punct">? / ?</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">39.82333? 89.65583?</span><span style="display:none">? / <span class="geo">39.82333; -89.65583</span></span></span></a></span></td>

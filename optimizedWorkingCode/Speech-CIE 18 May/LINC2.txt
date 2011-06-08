@@ -1,0 +1,1063 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+
+<title>collections - Python: What is the best way to check if a list is empty? - Stack Overflow</title>
+<link rel="shortcut icon" href="http://sstatic.net/stackoverflow/img/favicon.ico">
+<link rel="apple-touch-icon" href="http://sstatic.net/stackoverflow/img/apple-touch-icon.png">
+<link rel="search" type="application/opensearchdescription+xml" title="Stack Overflow" href="/opensearch.xml">
+<link rel="stylesheet" type="text/css" href="http://sstatic.net/stackoverflow/all.css?v=0c67cee5e456">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://sstatic.net/js/master.min.js?v=0d404b46476d"></script>
+
+
+    <link rel="canonical" href="http://stackoverflow.com/questions/53513/python-what-is-the-best-way-to-check-if-a-list-is-empty">
+    <link rel="alternate" type="application/atom+xml" title="Feed for question 'Python: What is the best way to check if a list is empty?'" href="/feeds/question/53513">
+    <script src="http://sstatic.net/js/question.js?v=295ea969376b" type="text/javascript"></script>
+    <script type="text/javascript">
+        
+        StackExchange.ready(function () {
+
+            StackExchange.question.init({showAnswerHelp:true,questionId:53513});
+
+            styleCode();
+        });
+    </script>
+
+
+    <script type="text/javascript">
+        StackExchange.init({"stackAuthUrl":"http://stackauth.com","serverTime":1303409608,"site":{"name":"Stack Overflow","description":"Q&A for professional and enthusiast programmers"},"user":{"isAnonymous":true,"fkey":"a0d1e66e4ff0165b39ae1a194f63dfb8","inboxUnviewedCount":-1}});
+        StackExchange.using.setCacheBreakers({"js/prettify-full.js":"dcf6d862901d","js/moderator.js":"3adc1f43ac02"});
+    </script>
+
+</head>
+<body class="question-page">
+    <noscript><div id="noscript-padding"></div></noscript>
+    <div id="notify-container"></div>
+    <div id="overlay-header"></div>
+    <div id="custom-header"></div>
+    <div class="container">
+        <div id="header">
+            <div id="portalLink">
+                <a class="genu" href="http://stackexchange.com">Stack Exchange</a>
+            </div>
+            <div id="topbar">
+                <div id="hlinks">
+                    <span id="hlinks-user">
+                  
+                  </span>
+                  <span id="hlinks-nav">
+                  <a href="/users/login?returnurl=%2fquestions%2f53513%2fpython-what-is-the-best-way-to-check-if-a-list-is-empty">log in</a>
+ <span class="lsep">|</span>
+<a href="http://careers.stackoverflow.com">careers</a>
+ <span class="lsep">|</span>
+
+                  </span>
+                  <span id="hlinks-custom">
+                  <a href="http://chat.stackoverflow.com">chat</a>
+ <span class="lsep">|</span>
+<a href="http://meta.stackoverflow.com">meta</a>
+ <span class="lsep">|</span>
+<a href="/about">about</a>
+ <span class="lsep">|</span>
+<a href="/faq">faq</a>
+                  </span>
+                </div>
+                <div id="hsearch">
+                    <form id="search" action="/search" method="get">
+                    <div>
+                        <input name="q" class="textbox" tabindex="1" onfocus="if (this.value=='search') this.value = ''" type="text" maxlength="140" size="28" value="search">
+                    </div>
+                    </form>
+                </div>
+            </div>
+            <br class="cbt">
+            <div id="hlogo">
+                <a href="/">Stack Overflow</a>
+            </div>
+            <div id="hmenus">
+                <div class="nav mainnavs">
+                    <ul>
+                        <li class="youarehere"><a id="nav-questions" href="/questions">Questions</a></li>
+                        <li><a id="nav-tags" href="/tags">Tags</a></li>
+                        <li><a id="nav-users" href="/users">Users</a></li>
+                        <li><a id="nav-badges" href="/badges">Badges</a></li>
+                        <li><a id="nav-unanswered" href="/unanswered">Unanswered</a></li>
+                    </ul>
+                </div>
+                <div class="nav askquestion">
+                    <ul>
+                        <li>
+                            <a id="nav-askquestion"  href="/questions/ask">Ask Question</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="content">
+            
+
+
+
+<div id="question-header">
+    <h1><a href="/questions/53513/python-what-is-the-best-way-to-check-if-a-list-is-empty" class="question-hyperlink">Python: What is the best way to check if a list is empty?</a></h1>
+</div>
+<div id="mainbar">
+
+
+<div id="question">
+
+    <div class="everyonelovesstackoverflow" id="adzerk1">
+    </div>
+
+    
+    <table>
+    <tr>
+    <td class="votecell">
+        
+<div class="vote">
+    <input type="hidden" value="53513">
+    <a class="vote-up-off" title="This question is useful and clear (click again to undo)">up vote</a>
+    <span class="vote-count-post">65</span>
+    <a class="vote-down-off" title="This question is unclear or not useful (click again to undo)">down vote</a>
+
+    <a class="star-off" href="#" title="This is a favorite question (click again to undo)">favorite</a>
+    <div class="favoritecount"><b>8</b></div>    
+
+</div>
+
+    </td>
+    <td class="postcell">
+        <div>          
+            <div class="post-text">
+                <p>For example, if passed the following:</p>
+
+<pre><code>a = []
+</code></pre>
+
+<p>How do I check to see if <strong><code>a</code></strong> is empty?</p>
+
+            </div>            
+            <div class="post-taglist">
+                <a href="/questions/tagged/python" class="post-tag" title="show questions tagged 'python'" rel="tag">python</a> <a href="/questions/tagged/collections" class="post-tag" title="show questions tagged 'collections'" rel="tag">collections</a> <a href="/questions/tagged/list" class="post-tag" title="show questions tagged 'list'" rel="tag">list</a> <a href="/questions/tagged/tuples" class="post-tag" title="show questions tagged 'tuples'" rel="tag">tuples</a> 
+            </div>
+            <table class="fw">
+            <tr>
+            <td class="vt">
+                <div class="post-menu"><a href="/q/53513" title="short permalink to this question" id="link-post-53513">link</a><span class="lsep">|</span><a href="/posts/53513/edit" title="edit this post">edit</a><span class="lsep">|</span><a id="flag-post-53513" title="flag this post for serious problems or moderator attention">flag</a></div>
+            </td>
+            <td align="right" class="post-signature">
+<div class="user-info"><div class="user-action-time">edited <a href="/posts/53513/revisions" title="show all edits to this post"><span title="2009-09-30 03:21:26Z" class="relativetime">Sep 30 '09 at 3:21</span></a></div><div class="user-gravatar32"><a href="/users/1630/ashwin"><img src="http://www.gravatar.com/avatar/e656e8a79ae5a416f0c3d4de38d302b1?s=32&amp;d=identicon&amp;r=PG" height="32" width="32" alt=""></a></div><div class="user-details"><a href="/users/1630/ashwin">Ashwin</a><br><span class="reputation-score" title="reputation score">4,476</span><span title="9 gold badges"><span class="badge1"></span><span class="badgecount">9</span></span><span title="33 silver badges"><span class="badge2"></span><span class="badgecount">33</span></span><span title="68 bronze badges"><span class="badge3"></span><span class="badgecount">68</span></span></div></div>            </td>
+                        
+
+            <td class="post-signature owner">
+            <div class="user-info"><div class="user-action-time">asked <span title="2008-09-10 06:20:11Z" class="relativetime">Sep 10 '08 at 6:20</span></div><div class="user-gravatar32"><a href="/users/4872/ray-vega"><img src="http://www.gravatar.com/avatar/2da21199d56ce93c5092f1c386d5a577?s=32&amp;d=identicon&amp;r=PG" height="32" width="32" alt=""></a></div><div class="user-details"><a href="/users/4872/ray-vega">Ray Vega</a><br><span class="reputation-score" title="reputation score">7,463</span><span title="18 gold badges"><span class="badge1"></span><span class="badgecount">18</span></span><span title="70 silver badges"><span class="badge2"></span><span class="badgecount">70</span></span><span title="106 bronze badges"><span class="badge3"></span><span class="badgecount">106</span></span></div></div>
+                <br class="cbt">
+                <div class="accept-rate accept-answer-link" title="this user has accepted an answer for 62 of 69 eligible questions">90% accept rate</div>
+            </td>
+            </tr>
+            </table>
+        </div>
+    </td>
+    </tr>
+
+    
+
+<tr>
+<td class="votecell"></td>
+<td>
+    <div id="comments-53513" class="comments dno">
+        <table>
+        <tbody>
+        
+            <tr><td></td><td></td></tr>
+        
+        </tbody>
+    
+        </table>
+    </div>
+    
+</td>
+</tr>
+    
+    </table>    
+</div>
+
+
+
+<div id="answers">
+
+    <a name="tab-top"></a>
+    <div id="answers-header">
+        <div class="subheader answers-subheader">
+            <h2>7 Answers</h2>
+            <div id="tabs">
+                <a href="/questions/53513/python-what-is-the-best-way-to-check-if-a-list-is-empty?tab=active#tab-top" title="Answers with the latest activity first">active</a>
+<a href="/questions/53513/python-what-is-the-best-way-to-check-if-a-list-is-empty?tab=oldest#tab-top" title="Answers in the order they were provided">oldest</a>
+<a class="youarehere" href="/questions/53513/python-what-is-the-best-way-to-check-if-a-list-is-empty?tab=votes#tab-top" title="Answers with the highest score first">votes</a>
+
+            </div>
+        </div>
+    </div>
+
+
+  
+    <a name="53522"></a>
+    <div id="answer-53522" class="answer" >
+        <table>
+        <tr>
+        <td class="votecell">
+            
+<div class="vote">
+    <input type="hidden" value="53522">
+    <a class="vote-up-off" title="This answer is useful (click again to undo)">up vote</a>
+    <span class="vote-count-post" style="font-size:200%;">142</span>
+    <a class="vote-down-off" title="This answer is not useful (click again to undo)">down vote</a>
+<span class="vote-accepted-on" title="The question owner accepted this as the best answer Sep 10 '08 at 21:11">accepted</span>
+</div>
+
+        </td>
+        <td>
+            <div class="post-text"><pre><code>if not a:
+  print "List is empty"
+</code></pre>
+
+<p>Using the implicit booleanness of the empty list is quite pythonic.</p>
+</div>
+            <table class="fw">
+            <tr>
+            <td class="vt">
+                <div class="post-menu"><a href="/questions/53513/python-what-is-the-best-way-to-check-if-a-list-is-empty/53522#53522" title="permalink to this answer" id="link-post-53522">link</a><span class="lsep">|</span><a href="/posts/53522/edit" title="edit this post">edit</a><span class="lsep">|</span><a id="flag-post-53522" title="flag this post for serious problems or moderator attention">flag</a></div>
+            </td>
+            
+
+            <td align="right" class="post-signature">   
+       
+
+            <div class="user-info"><div class="user-action-time">answered <span title="2008-09-10 06:28:05Z" class="relativetime">Sep 10 '08 at 6:28</span></div><div class="user-gravatar32"><a href="/users/429/patrick"><img src="http://www.gravatar.com/avatar/05ce4158a6d636a028bd108bf52cd492?s=32&amp;d=identicon&amp;r=PG" height="32" width="32" alt=""></a></div><div class="user-details"><a href="/users/429/patrick">Patrick</a><br><span class="reputation-score" title="reputation score">6,880</span><span title="4 gold badges"><span class="badge1"></span><span class="badgecount">4</span></span><span title="21 silver badges"><span class="badge2"></span><span class="badgecount">21</span></span><span title="41 bronze badges"><span class="badge3"></span><span class="badgecount">41</span></span></div></div>
+            </td>
+            </tr>
+            </table>
+        </td>
+        </tr>
+
+    
+
+<tr>
+<td class="votecell"></td>
+<td>
+    <div id="comments-53522" class="comments">
+        <table>
+        <tbody>
+                    
+    <tr id="comment-1336" class="comment">
+        <td class="comment-actions"><table><tbody><tr>
+<td class="comment-score">
+<span title="number of 'great comment' votes received" class="warm">9</span>
+</td>
+<td>
+&nbsp;
+</td></tr>
+</tbody></table></td>
+        <td class="comment-text"><div><span class="comment-copy">up&#39;d for &#39;pythonic&#39;
+</span> &ndash;&nbsp;<a href="/users/3024/frep-d-oronge" title="642 reputation" class="comment-user">Frep D-Oronge</a> <span class="comment-date"><span title="2008-09-10 08:12:29Z">Sep 10 '08 at 8:12</span></span></div></td>
+    </tr>
+            
+    <tr id="comment-6158588" class="comment">
+        <td class="comment-actions"><table><tbody><tr>
+<td class="comment-score">
+<span title="number of 'great comment' votes received" class="cool">2</span>
+</td>
+<td>
+&nbsp;
+</td></tr>
+</tbody></table></td>
+        <td class="comment-text"><div><span class="comment-copy">up&#39;d for &#39;implicit booleanness&#39;</span> &ndash;&nbsp;<a href="/users/599583/jeffrey-greenham" title="180 reputation" class="comment-user">Jeffrey Greenham</a> <span class="comment-date"><span title="2011-03-25 21:34:10Z">Mar 25 at 21:34</span></span></div></td>
+    </tr>
+
+        </tbody>
+    
+        </table>
+    </div>
+    
+</td>
+</tr>
+     
+
+
+    </table>
+</div>
+
+
+
+    <div class="everyonelovesstackoverflow" id="adzerk3">
+    </div>
+
+    
+  
+    <a name="53752"></a>
+    <div id="answer-53752" class="answer" >
+        <table>
+        <tr>
+        <td class="votecell">
+            
+<div class="vote">
+    <input type="hidden" value="53752">
+    <a class="vote-up-off" title="This answer is useful (click again to undo)">up vote</a>
+    <span class="vote-count-post">59</span>
+    <a class="vote-down-off" title="This answer is not useful (click again to undo)">down vote</a>
+
+</div>
+
+        </td>
+        <td>
+            <div class="post-text"><p>The pythonic way to do it is from the <a href="http://www.python.org/dev/peps/pep-0008/" rel="nofollow">style guide</a>:</p>
+
+<p>For sequences, (strings, lists, tuples), use the fact that empty sequences are false.</p>
+
+<p><strong>Yes:</strong></p>
+
+<pre><code>if not seq:
+if seq:
+</code></pre>
+
+<p><strong>No:</strong></p>
+
+<pre><code>if len(seq)
+if not len(seq)
+</code></pre>
+</div>
+            <table class="fw">
+            <tr>
+            <td class="vt">
+                <div class="post-menu"><a href="/questions/53513/python-what-is-the-best-way-to-check-if-a-list-is-empty/53752#53752" title="permalink to this answer" id="link-post-53752">link</a><span class="lsep">|</span><a href="/posts/53752/edit" title="edit this post">edit</a><span class="lsep">|</span><a id="flag-post-53752" title="flag this post for serious problems or moderator attention">flag</a></div>
+            </td>
+            
+
+            <td align="right" class="post-signature">   
+       
+
+            <div class="user-info"><div class="user-action-time">answered <span title="2008-09-10 10:33:38Z" class="relativetime">Sep 10 '08 at 10:33</span></div><div class="user-gravatar32"><a href="/users/1057/harley"><img src="http://www.gravatar.com/avatar/e5778b659d144e38ed982c3f4e566089?s=32&amp;d=identicon&amp;r=PG" height="32" width="32" alt=""></a></div><div class="user-details"><a href="/users/1057/harley">Harley</a><br><span class="reputation-score" title="reputation score">6,548</span><span title="17 silver badges"><span class="badge2"></span><span class="badgecount">17</span></span><span title="34 bronze badges"><span class="badge3"></span><span class="badgecount">34</span></span></div></div>
+            </td>
+            </tr>
+            </table>
+        </td>
+        </tr>
+
+    
+
+<tr>
+<td class="votecell"></td>
+<td>
+    <div id="comments-53752" class="comments">
+        <table>
+        <tbody>
+                    
+    <tr id="comment-1502" class="comment">
+        <td class="comment-actions"><table><tbody><tr>
+<td class="comment-score">
+<span title="number of 'great comment' votes received" class="cool">2</span>
+</td>
+<td>
+&nbsp;
+</td></tr>
+</tbody></table></td>
+        <td class="comment-text"><div><span class="comment-copy">up&#39;d for linking the style guide as an authoritative reference</span> &ndash;&nbsp;<a href="/users/3207/carl-meyer" title="12753 reputation" class="comment-user">Carl Meyer</a> <span class="comment-date"><span title="2008-09-10 13:43:56Z">Sep 10 '08 at 13:43</span></span></div></td>
+    </tr>
+            
+    <tr id="comment-1561" class="comment">
+        <td class="comment-actions"><table><tbody><tr>
+<td class="comment-score">
+<span title="number of 'great comment' votes received" class="cool">4</span>
+</td>
+<td>
+&nbsp;
+</td></tr>
+</tbody></table></td>
+        <td class="comment-text"><div><span class="comment-copy">Note that if seq is None you will get the same response as if seq is an empty list; if logic needs to be different in this case you need to explicitly check for None separately.</span> &ndash;&nbsp;<a href="/users/363/patrick-johnmeyer" title="1368 reputation" class="comment-user">Patrick Johnmeyer</a> <span class="comment-date"><span title="2008-09-10 15:12:38Z">Sep 10 '08 at 15:12</span></span></div></td>
+    </tr>
+
+        </tbody>
+    
+        </table>
+    </div>
+    
+</td>
+</tr>
+     
+
+
+    </table>
+</div>
+
+
+
+  
+    <a name="53525"></a>
+    <div id="answer-53525" class="answer" >
+        <table>
+        <tr>
+        <td class="votecell">
+            
+<div class="vote">
+    <input type="hidden" value="53525">
+    <a class="vote-up-off" title="This answer is useful (click again to undo)">up vote</a>
+    <span class="vote-count-post">6</span>
+    <a class="vote-down-off" title="This answer is not useful (click again to undo)">down vote</a>
+
+</div>
+
+        </td>
+        <td>
+            <div class="post-text"><p>An empty list is itself considered false in true value testing (see <a href="http://docs.python.org/lib/truth.html" rel="nofollow">python documentation</a>):</p>
+
+<pre><code>a = []
+if a:
+     print "not empty"
+</code></pre>
+
+<p>@Daren Thomas</p>
+
+<blockquote>
+  <p>EDIT: Another point against testing
+  the empty list as False: What about
+  polymorphism? You shouldn't depend on
+  a list being a list. It should just
+  quack like a duck - how are you going
+  to get your duckCollection to quack
+  ''False'' when it has no elements?</p>
+</blockquote>
+
+<p>Your duckCollection should implement <code>__nonzero__</code> or <code>__len__</code> so the if a: will work without problems.</p>
+</div>
+            <table class="fw">
+            <tr>
+            <td class="vt">
+                <div class="post-menu"><a href="/questions/53513/python-what-is-the-best-way-to-check-if-a-list-is-empty/53525#53525" title="permalink to this answer" id="link-post-53525">link</a><span class="lsep">|</span><a href="/posts/53525/edit" title="edit this post">edit</a><span class="lsep">|</span><a id="flag-post-53525" title="flag this post for serious problems or moderator attention">flag</a></div>
+            </td>
+            <td align="right" class="post-signature">
+<div class="user-info"><div class="user-action-time">edited <a href="/posts/53525/revisions" title="show all edits to this post"><span title="2009-09-30 03:32:40Z" class="relativetime">Sep 30 '09 at 3:32</span></a></div><div class="user-gravatar32"><a href="/users/60777/chris-lutz"><img src="http://www.gravatar.com/avatar/4e698bea14e1d5f5c86d0359e5f24d28?s=32&amp;d=identicon&amp;r=PG" height="32" width="32" alt=""></a></div><div class="user-details"><a href="/users/60777/chris-lutz">Chris Lutz</a><br><span class="reputation-score" title="reputation score 19319">19.3k</span><span title="34 silver badges"><span class="badge2"></span><span class="badgecount">34</span></span><span title="91 bronze badges"><span class="badge3"></span><span class="badgecount">91</span></span></div></div>            </td>
+            
+
+            <td align="right" class="post-signature">   
+       
+
+            <div class="user-info"><div class="user-action-time">answered <span title="2008-09-10 06:31:22Z" class="relativetime">Sep 10 '08 at 6:31</span></div><div class="user-gravatar32"><a href="/users/720/peter-hoffmann"><img src="http://www.gravatar.com/avatar/3c57f2a468f2fc945f1e5c47d1afee66?s=32&amp;d=identicon&amp;r=PG" height="32" width="32" alt=""></a></div><div class="user-details"><a href="/users/720/peter-hoffmann">Peter Hoffmann</a><br><span class="reputation-score" title="reputation score">5,726</span><span title="18 silver badges"><span class="badge2"></span><span class="badgecount">18</span></span><span title="38 bronze badges"><span class="badge3"></span><span class="badgecount">38</span></span></div></div>
+            </td>
+            </tr>
+            </table>
+        </td>
+        </tr>
+
+    
+
+<tr>
+<td class="votecell"></td>
+<td>
+    <div id="comments-53525" class="comments">
+        <table>
+        <tbody>
+                    
+    <tr id="comment-1348499" class="comment">
+        <td></td>
+        <td class="comment-text"><div><span class="comment-copy">You can use backticks to format <code>code blocks</code> inside regular text. Do that instead of making it look worse to avoid the other formatting StackOverflow has.</span> &ndash;&nbsp;<a href="/users/60777/chris-lutz" title="19319 reputation" class="comment-user">Chris Lutz</a> <span class="comment-date"><span title="2009-09-30 03:35:08Z">Sep 30 '09 at 3:35</span></span></div></td>
+    </tr>
+
+        </tbody>
+    
+        </table>
+    </div>
+    
+</td>
+</tr>
+     
+
+
+    </table>
+</div>
+
+
+
+  
+    <a name="61918"></a>
+    <div id="answer-61918" class="answer" >
+        <table>
+        <tr>
+        <td class="votecell">
+            
+<div class="vote">
+    <input type="hidden" value="61918">
+    <a class="vote-up-off" title="This answer is useful (click again to undo)">up vote</a>
+    <span class="vote-count-post">2</span>
+    <a class="vote-down-off" title="This answer is not useful (click again to undo)">down vote</a>
+
+</div>
+
+        </td>
+        <td>
+            <div class="post-text"><p><a href="http://books.google.com/books?id=vpTAq4dnmuAC&amp;pg=RA1-PA479&amp;lpg=RA1-PA479&amp;dq=Python+len+big+O&amp;source=web&amp;ots=AOM6A1K9Fy&amp;sig=iQo8mV6Xf9KdzuNSa-Jkr8wDEuw&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=4&amp;ct=result" rel="nofollow">len() is an O(1) operation</a> for Python lists, strings, dicts, and sets. Python internally keeps track of the number of elements in these containers.</p>
+
+<p>JavaScript has a similar notion of <a href="http://www.isolani.co.uk/blog/javascript/TruthyFalsyAndTypeCasting" rel="nofollow">truthy/falsy</a>.</p>
+</div>
+            <table class="fw">
+            <tr>
+            <td class="vt">
+                <div class="post-menu"><a href="/questions/53513/python-what-is-the-best-way-to-check-if-a-list-is-empty/61918#61918" title="permalink to this answer" id="link-post-61918">link</a><span class="lsep">|</span><a href="/posts/61918/edit" title="edit this post">edit</a><span class="lsep">|</span><a id="flag-post-61918" title="flag this post for serious problems or moderator attention">flag</a></div>
+            </td>
+            
+
+            <td align="right" class="post-signature">   
+       
+
+            <div class="user-info"><div class="user-action-time">answered <span title="2008-09-15 05:50:48Z" class="relativetime">Sep 15 '08 at 5:50</span></div><div class="user-gravatar32"><a href="/users/6364/george-v-reilly"><img src="http://www.gravatar.com/avatar/12253d48375c73fcfdda8688da6aa3a4?s=32&amp;d=identicon&amp;r=PG" height="32" width="32" alt=""></a></div><div class="user-details"><a href="/users/6364/george-v-reilly">George V. Reilly</a><br><span class="reputation-score" title="reputation score">1,985</span><span title="2 silver badges"><span class="badge2"></span><span class="badgecount">2</span></span><span title="14 bronze badges"><span class="badge3"></span><span class="badgecount">14</span></span></div></div>
+            </td>
+            </tr>
+            </table>
+        </td>
+        </tr>
+
+    
+
+<tr>
+<td class="votecell"></td>
+<td>
+    <div id="comments-61918" class="comments dno">
+        <table>
+        <tbody>
+        
+            <tr><td></td><td></td></tr>
+        
+        </tbody>
+    
+        </table>
+    </div>
+    
+</td>
+</tr>
+     
+
+
+    </table>
+</div>
+
+
+
+  
+    <a name="53523"></a>
+    <div id="answer-53523" class="answer" >
+        <table>
+        <tr>
+        <td class="votecell">
+            
+<div class="vote">
+    <input type="hidden" value="53523">
+    <a class="vote-up-off" title="This answer is useful (click again to undo)">up vote</a>
+    <span class="vote-count-post">1</span>
+    <a class="vote-down-off" title="This answer is not useful (click again to undo)">down vote</a>
+
+</div>
+
+        </td>
+        <td>
+            <div class="post-text"><p>I have seen the below as preferred, as it will catch the null list as well:</p>
+
+<pre><code>if not a:
+    print "The list is empty or null"
+</code></pre>
+</div>
+            <table class="fw">
+            <tr>
+            <td class="vt">
+                <div class="post-menu"><a href="/questions/53513/python-what-is-the-best-way-to-check-if-a-list-is-empty/53523#53523" title="permalink to this answer" id="link-post-53523">link</a><span class="lsep">|</span><a href="/posts/53523/edit" title="edit this post">edit</a><span class="lsep">|</span><a id="flag-post-53523" title="flag this post for serious problems or moderator attention">flag</a></div>
+            </td>
+            
+
+            <td align="right" class="post-signature">   
+       
+
+            <div class="user-info"><div class="user-action-time">answered <span title="2008-09-10 06:28:39Z" class="relativetime">Sep 10 '08 at 6:28</span></div><div class="user-gravatar32"><a href="/users/5066/hazzen"><img src="http://www.gravatar.com/avatar/29e539e941e1467b7833f5e44d407f34?s=32&amp;d=identicon&amp;r=PG" height="32" width="32" alt=""></a></div><div class="user-details"><a href="/users/5066/hazzen">hazzen</a><br><span class="reputation-score" title="reputation score">3,232</span><span title="1 gold badge"><span class="badge1"></span><span class="badgecount">1</span></span><span title="8 silver badges"><span class="badge2"></span><span class="badgecount">8</span></span><span title="26 bronze badges"><span class="badge3"></span><span class="badgecount">26</span></span></div></div>
+            </td>
+            </tr>
+            </table>
+        </td>
+        </tr>
+
+    
+
+<tr>
+<td class="votecell"></td>
+<td>
+    <div id="comments-53523" class="comments">
+        <table>
+        <tbody>
+                    
+    <tr id="comment-1354" class="comment">
+        <td class="comment-actions"><table><tbody><tr>
+<td class="comment-score">
+<span title="number of 'great comment' votes received" class="cool">1</span>
+</td>
+<td>
+&nbsp;
+</td></tr>
+</tbody></table></td>
+        <td class="comment-text"><div><span class="comment-copy">There is no null list in Python, at most a name bound to a None value</span> &ndash;&nbsp;<a href="/users/5190/vinko-vrsalovic" title="51232 reputation" class="comment-user">Vinko Vrsalovic</a> <span class="comment-date"><span title="2008-09-10 09:08:08Z">Sep 10 '08 at 9:08</span></span></div></td>
+    </tr>
+
+        </tbody>
+    
+        </table>
+    </div>
+    
+</td>
+</tr>
+     
+
+
+    </table>
+</div>
+
+
+
+  
+    <a name="53533"></a>
+    <div id="answer-53533" class="answer" >
+        <table>
+        <tr>
+        <td class="votecell">
+            
+<div class="vote">
+    <input type="hidden" value="53533">
+    <a class="vote-up-off" title="This answer is useful (click again to undo)">up vote</a>
+    <span class="vote-count-post">0</span>
+    <a class="vote-down-off" title="This answer is not useful (click again to undo)">down vote</a>
+
+</div>
+
+        </td>
+        <td>
+            <div class="post-text"><p>I prefer the following:</p>
+
+<pre><code>if a == []:
+   print "The list is empty."
+</code></pre>
+
+<p>Readable and you don't have to worry about calling a function like <code>len()</code> to iterate through the variable. Although I'm not entirely sure what the BigO notation of something like this is... but Python's so blazingly fast I doubt it'd matter unless <code>a</code> was gigantic.</p>
+</div>
+            <table class="fw">
+            <tr>
+            <td class="vt">
+                <div class="post-menu"><a href="/questions/53513/python-what-is-the-best-way-to-check-if-a-list-is-empty/53533#53533" title="permalink to this answer" id="link-post-53533">link</a><span class="lsep">|</span><a href="/posts/53533/edit" title="edit this post">edit</a><span class="lsep">|</span><a id="flag-post-53533" title="flag this post for serious problems or moderator attention">flag</a></div>
+            </td>
+            
+
+            <td align="right" class="post-signature">   
+       
+
+            <div class="user-info"><div class="user-action-time">answered <span title="2008-09-10 06:43:14Z" class="relativetime">Sep 10 '08 at 6:43</span></div><div class="user-gravatar32"><a href="/users/5342/verix"><img src="http://www.gravatar.com/avatar/0a50aba6abb1f7a645ef141451ed1ba0?s=32&amp;d=identicon&amp;r=PG" height="32" width="32" alt=""></a></div><div class="user-details"><a href="/users/5342/verix">verix</a><br><span class="reputation-score" title="reputation score">216</span><span title="2 silver badges"><span class="badge2"></span><span class="badgecount">2</span></span><span title="9 bronze badges"><span class="badge3"></span><span class="badgecount">9</span></span></div></div>
+            </td>
+            </tr>
+            </table>
+        </td>
+        </tr>
+
+    
+
+<tr>
+<td class="votecell"></td>
+<td>
+    <div id="comments-53533" class="comments">
+        <table>
+        <tbody>
+                    
+    <tr id="comment-1301" class="comment">
+        <td></td>
+        <td class="comment-text"><div><span class="comment-copy">Yes, but it does break polymorphism...</span> &ndash;&nbsp;<a href="/users/2260/daren-thomas" title="9985 reputation" class="comment-user">Daren Thomas</a> <span class="comment-date"><span title="2008-09-10 06:56:33Z">Sep 10 '08 at 6:56</span></span></div></td>
+    </tr>
+            
+    <tr id="comment-1378" class="comment">
+        <td></td>
+        <td class="comment-text"><div><span class="comment-copy">Big-O-notation is completely irrelevant here. The input is an <i>empty</i> list, meaning that the n in O(n) equals zero.</span> &ndash;&nbsp;<a href="/users/1968/konrad-rudolph" title="93284 reputation" class="comment-user">Konrad Rudolph</a> <span class="comment-date"><span title="2008-09-10 10:44:20Z">Sep 10 '08 at 10:44</span></span></div></td>
+    </tr>
+            
+    <tr id="comment-1498" class="comment">
+        <td></td>
+        <td class="comment-text"><div><span class="comment-copy">Big O notation aside, this is going to be slower, as you instantiate an extra empty list unnecessarily.</span> &ndash;&nbsp;<a href="/users/3207/carl-meyer" title="12753 reputation" class="comment-user">Carl Meyer</a> <span class="comment-date"><span title="2008-09-10 13:42:00Z">Sep 10 '08 at 13:42</span></span></div></td>
+    </tr>
+
+        </tbody>
+    
+        </table>
+    </div>
+    
+</td>
+</tr>
+     
+
+
+    </table>
+</div>
+
+
+
+  
+    <a name="354069"></a>
+    <div id="answer-354069" class="answer" >
+        <table>
+        <tr>
+        <td class="votecell">
+            
+<div class="vote">
+    <input type="hidden" value="354069">
+    <a class="vote-up-off" title="This answer is useful (click again to undo)">up vote</a>
+    <span class="vote-count-post">-2</span>
+    <a class="vote-down-off" title="This answer is not useful (click again to undo)">down vote</a>
+
+</div>
+
+        </td>
+        <td>
+            <div class="post-text"><p>It's silly to compare 
+if a==[] because as mentioned, it breaks polymorphism, worse, extra object creation, a sin, even if it's very fast.
+len IS the preferred way, because it's standard and any inherited class should support it.</p>
+</div>
+            <table class="fw">
+            <tr>
+            <td class="vt">
+                <div class="post-menu"><a href="/questions/53513/python-what-is-the-best-way-to-check-if-a-list-is-empty/354069#354069" title="permalink to this answer" id="link-post-354069">link</a><span class="lsep">|</span><a href="/posts/354069/edit" title="edit this post">edit</a><span class="lsep">|</span><a id="flag-post-354069" title="flag this post for serious problems or moderator attention">flag</a></div>
+            </td>
+            
+
+            <td align="right" class="post-signature">   
+       
+
+            <div class="user-info"><div class="user-action-time">answered <span title="2008-12-09 20:13:58Z" class="relativetime">Dec 9 '08 at 20:13</span></div><div class="user-gravatar32"><a href="/users/40115/daniel-goldberg"><img src="http://www.gravatar.com/avatar/76bc00218bed97937e66f253479432f0?s=32&amp;d=identicon&amp;r=PG" height="32" width="32" alt=""></a></div><div class="user-details"><a href="/users/40115/daniel-goldberg">Daniel Goldberg</a><br><span class="reputation-score" title="reputation score">956</span><span title="1 gold badge"><span class="badge1"></span><span class="badgecount">1</span></span><span title="5 silver badges"><span class="badge2"></span><span class="badgecount">5</span></span><span title="14 bronze badges"><span class="badge3"></span><span class="badgecount">14</span></span></div></div>
+            </td>
+            </tr>
+            </table>
+        </td>
+        </tr>
+
+    
+
+<tr>
+<td class="votecell"></td>
+<td>
+    <div id="comments-354069" class="comments dno">
+        <table>
+        <tbody>
+        
+            <tr><td></td><td></td></tr>
+        
+        </tbody>
+    
+        </table>
+    </div>
+    
+</td>
+</tr>
+     
+
+
+    </table>
+</div>
+
+
+    
+    <a name='new-answer'></a>
+    <form id="post-form" action="/questions/53513/answer/submit" method="post" >
+        <h2 class="space">Your Answer</h2>
+
+<script type="text/javascript">
+    $(function() {
+     
+        initTagRenderer("".split(" "), "".split(" "));
+
+        lazyEditorReady('answer', true/* confirm navigation after wmd keypress */, "http://sstatic.net/Js/wmd.js?v=b502d08e02ba");
+    });  
+</script>
+
+
+
+
+<div id="post-editor">  
+
+    
+    <div id="wmd-container">
+        <div id="wmd-button-bar"></div>
+        <textarea id="wmd-input" name="post-text" cols="92" rows="15" tabindex="101"></textarea>
+    </div>
+
+    <div class="fl" style="margin-top: 8px; height:24px;">&nbsp;</div>
+    <div id="draft-saved" class="community-option fl" style="margin-top: 8px; height:24px; display:none;">draft saved</div>
+
+
+    <div id="wmd-preview"></div>
+
+
+    <div id="edit-block">
+        <input id="fkey" name="fkey" type="hidden" value="a0d1e66e4ff0165b39ae1a194f63dfb8">
+        <input id="author" name="author" type="text">
+    </div>
+</div>   
+    <div class="form-item">
+        <table>
+        <tr>
+        <td class="vm open-id-login">
+            <a id="login-link" style="font-size: 200%; margin-left: 30px;" href="/users/login?returnurl=%2fquestions%2f53513%2fpython-what-is-the-best-way-to-check-if-a-list-is-empty">log in</a>
+            <script type="text/javascript">
+                StackExchange.ready(function () {
+                    StackExchange.helpers.onClickDraftSave('#login-link');
+                });
+            </script>
+        </td>
+
+    
+        <td class="orcell">
+            <div class="orword">or</div>
+            <div class="orline"></div>
+        </td>
+        <td class="vm">
+            <div>
+                <label for="display-name">Name</label>
+                <input id="display-name" name="display-name" type="text" size="30" maxlength="30" value="" tabindex="105">
+            </div>
+            <div>
+                <label for="m-address">Email</label>
+                <input id="m-address" name="m-address" type="text" size="40" maxlength="100" value="" tabindex="106">
+                <span class="edit-field-overlay">required, but never shown</span>
+            </div>
+            <div>
+                <label for="home-page">Home Page</label>
+                <input id="home-page" name="home-page" type="text" size="40" maxlength="200" value="" tabindex="107">
+            </div>
+        </td>
+    
+        </tr>
+        </table>
+    </div>
+               
+        <div class="form-submit cbt"><input id="submit-button" type="submit" value="Post Your Answer" tabindex="110"></div>
+    </form>
+    <h2 class="bottom-notice">
+        Not the answer you're looking for? 
+        Browse other questions tagged <a href="/questions/tagged/python" class="post-tag" title="show questions tagged 'python'" rel="tag">python</a> <a href="/questions/tagged/collections" class="post-tag" title="show questions tagged 'collections'" rel="tag">collections</a> <a href="/questions/tagged/list" class="post-tag" title="show questions tagged 'list'" rel="tag">list</a> <a href="/questions/tagged/tuples" class="post-tag" title="show questions tagged 'tuples'" rel="tag">tuples</a> 
+        or <a href="/questions/ask">ask your own question</a>.
+    </h2>
+</div>
+</div>
+<div id="sidebar">
+
+<div class="module newuser newuser-greeting" style="display:none">
+    <h4>Hello World!</h4>
+    <div>
+        <p>This is a collaboratively edited question and answer site for <b>professional and enthusiast programmers</b>. It's 100% free, no registration required.</p>
+        <p class="ar"><a href="/about">about &raquo;</a>&nbsp;&nbsp;&nbsp;<a href="/faq">faq &raquo;</a></p>
+    </div>
+</div>    <div class="module">
+        <p class="label-key">tagged</p>
+        <div class="tagged"><a href="/questions/tagged/python" class="post-tag" title="show questions tagged 'python'" rel="tag">python</a>&nbsp;<span class="item-multiplier">&times;&nbsp;55791</span><br>
+<a href="/questions/tagged/list" class="post-tag" title="show questions tagged 'list'" rel="tag">list</a>&nbsp;<span class="item-multiplier">&times;&nbsp;5347</span><br>
+<a href="/questions/tagged/collections" class="post-tag" title="show questions tagged 'collections'" rel="tag">collections</a>&nbsp;<span class="item-multiplier">&times;&nbsp;2840</span><br>
+<a href="/questions/tagged/tuples" class="post-tag" title="show questions tagged 'tuples'" rel="tag">tuples</a>&nbsp;<span class="item-multiplier">&times;&nbsp;247</span><br>
+</div> 
+        <p class="label-key">asked</p>
+        <p class="label-value" title="2008-09-10 06:20:11Z">2 years ago</p>
+        <p class="label-key">viewed</p>
+        <p class="label-value">42,346 times</p>
+        <p class="label-key">latest activity</p>
+        <p class="label-value"><a href="?lastactivity" class="lastactivity-link" title="2009-09-30 03:32:40Z">1 year ago</a></p>
+    </div>
+    
+        <script type="text/javascript">
+            var z = document.createElement("script"); z.type = "text/javascript"; z.async = true; z.src = "http://engine2.adzerk.net/z/8277/adzerk1_2_4_43,adzerk2_2_17_45,adzerk3_2_4_44?keywords=python,collections,list,tuples"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);
+        </script>
+    
+    <div class="everyonelovesstackoverflow" id="adzerk2">
+    </div>
+
+    
+    <div>
+        <script type="text/javascript">
+            (function(){var q="http://careers.stackoverflow.com/Ad/js",g=location.search=="?golarge",a,d=100,c=location.hash.indexOf("#ninjas")>-1,f="Pretty",h="#adzerk2",b="#adzerk1",i="#herebeninjas";(function(){var b="min-height:220px;margin:15px 0",c=$("<div>").addClass("hireme").attr("style",b),a=$("<div>").html(c);document.write(a.html())})();$(function(){setTimeout(r,2e3);a=setTimeout(e,d)});var e=function(){clearTimeout(a);if(m()&&!k()){a=setTimeout(e,d);return}c=c||n();c&&$(b).css("height",$(b).outerHeight()).attr("id","stop-adzerk");if(l()&&!j()){a=setTimeout(e,d);return}g=g||o();f=g?"Large":f;p()},r=function(){clearTimeout(a);var b=$("div.hireme, "+i);b.each(function(){var a=$(this),d=a.html().replace(/\s+/g,"").length==0;if(d){var c=a,b=a.parents(".everyonelovesstackoverflow").first();if(b.length>0)c=b;c.remove()}})},l=function(){return $(h).length>0},j=function(){var a=$(h);return a.length==0?false:a.html().replace(/\s+/g,"").length>0},o=function(){return $("#careersadsdoublehigh").length>0},m=function(){return $(b).length>0},k=function(){var a=$(b);return a.length==0?false:a.html().replace(/\s+/g,"").length>0},n=function(){return $(i).length>0},p=function(){$.ajax({url:s(),dataType:"script",cache:true})},s=function(){return q+"?style="+f+"&gobanner="+c.toString()}})();
+        </script>
+    </div>
+
+      
+
+    <div class="module">
+    <h4 id="h-linked">Linked</h4>
+    <div class="linked">
+    <div class="spacer">
+<a href="/questions/3488470/reason-why-there-is-no-if-empty-in-python" class="question-hyperlink">Reason why there is no &ldquo;if Empty&rdquo; in Python</a>
+</div>
+<div class="spacer">
+<a href="/questions/4547310/iterating-over-a-stack-reverse-list-is-there-an-isempty-method" class="question-hyperlink">Iterating over a stack (reverse list), is there an isempty() method?</a>
+</div>
+<div class="spacer">
+<a href="/questions/3726692/whats-the-recommended-way-to-return-a-boolean-for-a-collection-being-non-empty-i" class="question-hyperlink">What&#39;s the recommended way to return a boolean for a collection being non-empty in python ?</a>
+</div>
+<div class="spacer">
+<a href="/questions/5086178/python-how-to-check-if-array-is-not-empty" class="question-hyperlink">Python - how to check if array is not empty?</a>
+</div>
+
+    </div>
+    </div>
+    <div class="module">
+    <h4 id="h-related">Related</h4>
+    <div class="related">
+    <div class="spacer">
+<a href="/questions/534855/subtracting-2-lists-in-python" class="question-hyperlink">Subtracting 2 lists in Python</a>
+</div>
+<div class="spacer">
+<a href="/questions/613183/python-sort-a-dictionary-by-value" class="question-hyperlink">Python: Sort a dictionary by value</a>
+</div>
+<div class="spacer">
+<a href="/questions/626759/whats-the-difference-between-list-and-tuples-in-python" class="question-hyperlink">What&#39;s the difference between list and tuples in Python?</a>
+</div>
+<div class="spacer">
+<a href="/questions/862158/get-a-unique-list-tuple-element-given-a-condition-in-python" class="question-hyperlink">Get a unique list/tuple element given a condition in python</a>
+</div>
+<div class="spacer">
+<a href="/questions/988346/efficient-tuple-list-comparisons" class="question-hyperlink">Efficient Tuple List Comparisons</a>
+</div>
+<div class="spacer">
+<a href="/questions/1221775/find-unique-elements-in-tuples-in-a-python-list" class="question-hyperlink">Find unique elements in tuples in a python list</a>
+</div>
+<div class="spacer">
+<a href="/questions/1692388/python-list-of-dict-if-exists-increment-a-dict-value-if-not-append-a-new-dict" class="question-hyperlink">Python : List of dict, if exists increment a dict value, if not append a new dict</a>
+</div>
+<div class="spacer">
+<a href="/questions/1855471/converting-a-tuples-list-into-a-nested-list-using-python" class="question-hyperlink">Converting a Tuples List into a nested List using Python</a>
+</div>
+<div class="spacer">
+<a href="/questions/2210581/map-list-of-tuples-into-a-dictionary-python" class="question-hyperlink">Map List of Tuples into a Dictionary, python</a>
+</div>
+<div class="spacer">
+<a href="/questions/2282300/adding-an-entry-to-a-python-tuple" class="question-hyperlink">Adding an entry to a python tuple</a>
+</div>
+<div class="spacer">
+<a href="/questions/2407398/python-merge-items-of-two-lists-into-a-list-of-tuples" class="question-hyperlink">Python - merge items of two lists into a list of tuples</a>
+</div>
+<div class="spacer">
+<a href="/questions/2442580/python-removing-tuples-from-a-list-of-lists" class="question-hyperlink">Python: Removing tuples from a list of lists</a>
+</div>
+<div class="spacer">
+<a href="/questions/2917372/searching-a-list-of-tuples-in-python" class="question-hyperlink">searching a list of tuples in python</a>
+</div>
+<div class="spacer">
+<a href="/questions/3219573/unpacking-a-1-tuple-in-a-list-of-length-1" class="question-hyperlink">Unpacking a 1-tuple in a list of length 1</a>
+</div>
+<div class="spacer">
+<a href="/questions/3259159/sorting-a-list-of-tuples" class="question-hyperlink">sorting a list of tuples</a>
+</div>
+<div class="spacer">
+<a href="/questions/3308102/how-to-extract-the-n-th-elements-from-a-list-of-tuples-in-python" class="question-hyperlink">How to extract the n-th elements from a list of tuples in python?</a>
+</div>
+<div class="spacer">
+<a href="/questions/3340539/why-tuple-is-faster-than-list" class="question-hyperlink">Why tuple is faster than list?</a>
+</div>
+<div class="spacer">
+<a href="/questions/3357984/what-is-the-difference-between-lists-and-tuples-in-python" class="question-hyperlink">What is the difference between lists and tuples in Python?</a>
+</div>
+<div class="spacer">
+<a href="/questions/4004447/python-how-to-remove-the-last-element-in-each-tuple-in-a-list" class="question-hyperlink">Python: How to remove the last element in each tuple in a list</a>
+</div>
+<div class="spacer">
+<a href="/questions/4559438/searching-a-tuple-list-with-wildcards" class="question-hyperlink">searching a tuple list with wildcards?</a>
+</div>
+<div class="spacer">
+<a href="/questions/4800811/accessing-a-value-in-a-tuple-that-is-in-a-list" class="question-hyperlink">Accessing a value in a tuple that is in a list</a>
+</div>
+<div class="spacer">
+<a href="/questions/5241391/python-how-to-transform-a-flat-sequence-into-a-sequence-of-tuples" class="question-hyperlink">Python: How to transform a &#39;flat&#39; sequence into a sequence of tuples?</a>
+</div>
+<div class="spacer">
+<a href="/questions/5295508/partitioning-a-list-based-on-values-in-tuples-python" class="question-hyperlink">Partitioning a list based on values in tuples - Python</a>
+</div>
+<div class="spacer">
+<a href="/questions/5372282/list-comprehension-to-extract-a-list-of-tuples-from-dictionary" class="question-hyperlink">List comprehension to extract a list of tuples from dictionary</a>
+</div>
+<div class="spacer">
+<a href="/questions/5506511/python-converting-list-of-lists-to-tuples-of-tuples" class="question-hyperlink">python: converting list of lists to tuples of tuples</a>
+</div>
+
+    </div>
+    </div>
+</div>
+
+<div id="feed-link">
+    <div id="feed-link-text"><a href="/feeds/question/53513" title="feed of this question and its answers"><span class="feed-icon"></span>question feed</a></div>
+</div>
+<script type="text/javascript" src="/posts/53513/ivc/c151"></script>
+<noscript>
+    <div><img src="/posts/53513/ivc/c151" class="dno" alt=""></div>
+</noscript>
+<div style="display:none" id="prettify-lang">default</div>
+        </div>
+    </div>
+    <div id="footer">
+        <div class="footerwrap">
+            <div id="footer-menu">
+                <a href="/about">about</a> |
+                <a href="/faq">faq</a> |
+                 <a href="http://blog.stackoverflow.com">blog</a> |
+                    <a href="http://chat.stackoverflow.com">chat</a> |
+                <a href="http://data.stackexchange.com">data</a> |
+                <a href="http://itc.conversationsnetwork.org/series/stackoverflow.html">podcast</a> |
+                <a href="http://stackexchange.com/legal">legal</a> |
+                <a href="http://engine.adzerk.net/redirect/0/2776/2751/0/4de3c60f719c4dfcb1a57531c7050090/0">advertising info</a> |
+                <b><a href="mailto:team%40stackoverflow.com">contact us</a></b>
+                  | <b><a href="http://meta.stackoverflow.com">feedback always welcome</a></b>
+                <div id="footer-sites">
+                    
+                        <span style="color:#FE7A15;font-size:140%">&#9632;</span>&nbsp;<a href="http://stackoverflow.com">stackoverflow.com</a>&nbsp; 
+                        <span style="color:#FE7A15;font-size:140%">&#9632;</span>&nbsp;<a href="http://stackapps.com">api/apps</a>&nbsp; 
+                        <span style="color:#FE7A15;font-size:140%">&#9632;</span>&nbsp;<a href="http://careers.stackoverflow.com">careers</a>&nbsp; 
+                        <span style="color:#E8272C;font-size:140%">&#9632;</span>&nbsp;<a href="http://serverfault.com">serverfault.com</a>&nbsp; 
+                        <span style="color:#00AFEF;font-size:140%">&#9632;</span>&nbsp;<a href="http://superuser.com">superuser.com</a>&nbsp; 
+                        <span style="color:#969696;font-size:140%">&#9632;</span>&nbsp;<a href="http://meta.stackoverflow.com">meta</a>&nbsp; 
+                        <span style="color:#46937D;font-size:140%">&#9632;</span>&nbsp;<a href="http://area51.stackexchange.com">area&nbsp;51</a>&nbsp; 
+                        <span style="color:#C0D0DC;font-size:140%">&#9632;</span>&nbsp;<a href="http://webapps.stackexchange.com">webapps</a>&nbsp; 
+                        <span style="color:#000000;font-size:140%">&#9632;</span>&nbsp;<a href="http://gaming.stackexchange.com">gaming</a>&nbsp; 
+                        <span style="color:#dd4814;font-size:140%">&#9632;</span>&nbsp;<a href="http://askubuntu.com">ubuntu</a>&nbsp; 
+                        <span style="color:#9ce4fe;font-size:140%">&#9632;</span>&nbsp;<a href="http://webmasters.stackexchange.com">webmasters</a>&nbsp; 
+                        <span style="color:#cf4d3f;font-size:140%">&#9632;</span>&nbsp;<a href="http://cooking.stackexchange.com">cooking</a>&nbsp; 
+                        <span style="color:#f4f28d;font-size:140%">&#9632;</span>&nbsp;<a href="http://gamedev.stackexchange.com">game development</a>&nbsp; 
+                        <span style="color:#0f3559;font-size:140%">&#9632;</span>&nbsp;<a href="http://math.stackexchange.com">math</a>&nbsp; 
+                        <span style="color:#f2f2f2;font-size:140%">&#9632;</span>&nbsp;<a href="http://photo.stackexchange.com">photography</a>&nbsp; 
+                        <span style="color:#037187;font-size:140%">&#9632;</span>&nbsp;<a href="http://stats.stackexchange.com">stats</a>&nbsp; 
+                        <span style="color:#f1e7cc;font-size:140%">&#9632;</span>&nbsp;<a href="http://tex.stackexchange.com">tex</a>&nbsp; 
+                        <span style="color:#e1cdae;font-size:140%">&#9632;</span>&nbsp;<a href="http://english.stackexchange.com">english</a>&nbsp; 
+                        <span style="color:#a2d9f6;font-size:140%">&#9632;</span>&nbsp;<a href="http://cstheory.stackexchange.com">theoretical cs</a>&nbsp; 
+                        <span style="color:#1b3e6c;font-size:140%">&#9632;</span>&nbsp;<a href="http://programmers.stackexchange.com">programmers</a>&nbsp; 
+                        <span style="color:#293a5d;font-size:140%">&#9632;</span>&nbsp;<a href="http://unix.stackexchange.com">unix</a>&nbsp;
+                        <span style="color:#bec0cb;font-size:140%">&#9632;</span>&nbsp;<a href="http://apple.stackexchange.com">apple</a>&nbsp;
+                        <span style="color:#939185;font-size:140%">&#9632;</span>&nbsp;<a href="http://wordpress.stackexchange.com">wordpress</a>&nbsp;
+                        <span style="color:#b5cda4;font-size:140%">&#9632;</span>&nbsp;<a href="http://physics.stackexchange.com">physics</a>&nbsp;
+                        <span style="color:#4176ab;font-size:140%">&#9632;</span>&nbsp;<a href="http://diy.stackexchange.com">home&nbsp;improvement</a>&nbsp;
+                        <span style="color:#d1d8d7;font-size:140%">&#9632;</span>&nbsp;<a href="http://gis.stackexchange.com">gis</a>&nbsp;
+                        <span style="color:#e5e2d3;font-size:140%">&#9632;</span>&nbsp;<a href="http://electronics.stackexchange.com">electronics</a>&nbsp;
+                        <span style="color:#a4c639;font-size:140%">&#9632;</span>&nbsp;<a href="http://android.stackexchange.com">android</a>&nbsp;
+                </div>
+            </div>
+            <div id="footer-flair">
+                <a class="peer1" href="http://www.peer1.com/stackoverflow"></a>  
+	            <a href="http://creativecommons.org/licenses/by-sa/3.0/" class="cc-wiki-link"></a>
+                <div id="svnrev">rev 2011.4.21.3</div>
+            </div>
+            <div id="copyright">
+                site design / logo &copy; 2011 stack exchange inc; 
+                <a href="/questions-all">user contributions</a> licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">cc-wiki</a> with <a href="http://blog.stackoverflow.com/2009/06/attribution-required/" rel="license">attribution required</a>
+            </div>
+        </div>
+    </div>
+    
+    <noscript>
+        <div id="noscript-warning">Stack Overflow works best with JavaScript enabled<img src="http://pixel.quantserve.com/pixel/p-c1rF4kxgLUzNc.gif" alt="" class="dno"></div>
+    </noscript>
+    
+    <script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-5620270-1']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src='http://www.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();_qoptions={qacct:"p-c1rF4kxgLUzNc"};</script>
+    <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+    
+</body>
+</html>

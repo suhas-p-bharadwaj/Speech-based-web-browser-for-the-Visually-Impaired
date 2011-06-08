@@ -1,0 +1,50 @@
+Keyword arguments
+default parameters
+global declaration
+control flow (else for each)
+operators
+functions def identifier(parameter list):
+return None
+pass
+return value also
+docstrings - document prog.. makes it easier to read. description print printMax.__doc__ '''Doc Strings inside 3 quotes '''
+module - collection of functions, sys.argv, sys.path
+.pyc files - byte compiled files - platform independent files which makes importing of files easier
+__name__ Used to know the name of the module
+dir() - returns the names of classes, variables, functions defined in a module. Function passed as a parameter to the dir func
+del a
+class - methods and fields
+Data Structures : list, dictionary and tuple
+List
+	exList = ['one','two','three']
+	exList.append('')
+	len(exList)
+	exList[0]
+	exList.sort
+
+Tuples
+	Same as list except they are immutable
+	Pair of parentheses. comma separated values
+	exTuple = ('one',) To specify a single element
+
+Dictionary
+	Key(immutable) Value(mutable) pairs
+	Key must be unique
+	exDict = {key:value, key:value}
+	exDict['key-name']
+	exDict.items()
+	
+Sequences :
+	Indexing
+	Slicing
+	
+References:
+	Binding with the object it refers to
+	Points to the memory whr the object is stored
+	
+Slicing actually copies the contents
+Just assignment creates a reference
+
+
+
+

@@ -1,0 +1,53 @@
+<html>
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<title>Philosophy</title>
+</head>
+<body bgcolor="#FFFFDD">
+<center>
+<font face="Verdana">
+<a href="main.htm" target="_top">
+<img src="images/home.gif" width="35" height="16"></a></font></center>
+<p style="margin-top: 20px; margin-bottom: 20px;" align="center">
+<font color="#0000FF"><b>
+<font style="font-size: 16pt; font-variant: small-caps;" face="Verdana">P</font></b><font style="font-variant: small-caps; font-weight: 700;" face="Verdana" size="4">HILOSOPHY</font></font></p>
+<ul><li><p align="justify"><font face="Verdana">
+	<a target="new" href="momgandhi/encyclopedia.htm">
+	<font size="4">Mind of Mahatma Gandhi</font></a>
+<font color="#800000"><b>&nbsp;<font style="font-size: 11pt">( Complete Book Online )</font></b></font></font></li></ul>
+<p align="justify" style="margin:10 20; line-height:150%">
+<font face="Arial"><b><font size="2" color="#003300" face="Verdana">PHILOSOPHY OF MAHATMA GANDHI ON 96 IMPORTANT SUBJECTS IN HIS OWN WORDS</font></b></font>
+<p align="justify" style="margin:10 20; line-height: 150%; ">
+<font style="font-size: 11pt" face="Verdana">These selections are from his speeches and writings and will give the reader some idea of the working of Gandhi's mind, the growth of his thoughts on peace, nonviolence, truth, love, God and the practical techniques which he adopted.</font>
+<ul><li><p align="justify"><font face="Verdana" size="4">
+<a target="new" href="sfgandhi/index.htm">Selections from Gandhi</a></font>
+<font color="#800000" face="Verdana"><b><font style="font-size: 11pt">( Complete Book Online )</font></b></font></li></ul>
+<p align="justify" style="margin:10 20; line-height:150%">
+<b><font color="#003300" face="Verdana"><font size="2">THOUGHTS OF MAHATMA GANDHI ON VARIOUS IMPORTANT SUBJECTS&nbsp;IN HIS OWN WORDS</font></font></b>
+<p align="justify" style="margin:10 20; line-height: 150%; ">
+<font style="font-size: 11pt" face="Verdana">These selections are from his speeches and writings will give the reader some idea of the working of Gandhi's mind, the growth of his thoughts and the practical techniques which he adopted.
+</font>
+<ul><li><p align="justify"><font face="Verdana" size="4">
+<a target="new" target="_blank" href="amabrothers/amabrothers.htm">All Men Are Brothers</a></font><font color="#800000" face="Verdana"><b>
+<font style="font-size: 11pt">(Complete Book Online)</font></b></font></li></ul>
+<p align="justify" style="margin:10 20; line-height:150%">
+<b><font color="#003300" face="Verdana"><font size="2">LIFE IN SHORT AND SELECTED THOUGHTS OF MAHATMA GANDHI AS TOLD IN HIS OWN WORDS</font></font></b>
+<p align="justify" style="margin:10 20; line-height: 150%; ">
+<font style="font-size: 11pt" face="Verdana">These selections are from his speeches and writings will give the reader some idea of the working of Gandhi's mind, the growth of his thoughts and the practical techniques which he adopted.</font><ul>
+<li><p align="justify"><font face="Verdana" size="4">
+<a target="_blank" href="encyclopedia/index.htm">The Encyclopedia of Gandhian 
+Thoughts</a></font>
+<font color="#800000" face="Verdana"><b><font style="font-size: 11pt">( Complete Book Online )</font></b></font><font SIZE="+3" COLOR="#0000FF" face="Arial"><img src="images/new.gif" width="30" height="17"><br>
+&nbsp;</font></li></ul><ul>
+<li><p align="justify"><font face="Verdana" size="4">
+<a href="quatations.htm">Quotations</a></font>
+<font color="#800000" face="Verdana"><b><font style="font-size: 11pt">( Complete Book Online )</font></b></font></li></ul>
+<p align="justify" style="margin:10 20; line-height:150%"><b>
+<font color="#003300" face="Verdana"><font size="2">FROM BOOK EPIGRAM OF MAHATMA GANDHI ON VARIOUS SUBJECTS</font></font></b>
+<p align="center"><font face="Verdana"><a href="main.htm" target="_top">
+<img src="images/home.gif" width="35" height="16"></a> | <a href="#top">
+<img src="images/top.gif" width="35" height="16"></a></font></p>
+</body>
+</html>
